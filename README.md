@@ -17,7 +17,11 @@
 # Timetable
 
 Monday - Scratch
+
 Tuesday - Scratch
+
 Wednesday - Scratch & Robotics
+
 Thursday - Cloud Services
+
 Friday - Computer Hardware
