@@ -71,8 +71,10 @@ Looks blocks fall under the purple category of the programming palette. There ar
 
 
 ### Sound blocks
-Sound blocks fall under the fuchsia category and allow you to program the sprite to produce sounds or words you can hear. Click on the “Sounds” tab beside the word “Costumes,” to upload or record a new sound. Click Sounds, Upload and then create a new folder where you will keep your sounds. If folder already exists then you double-click on one of your folders (animal, effects, human, etc.).
-![sound](https://github.com/user-attachments/assets/1cab5f55-74ea-46cc-a5a2-46522770e5af)
+Sound blocks, found in the fuchsia category, enable you to program your sprite to produce sounds or spoken words. To manage sounds, click on the “Sounds” tab next to the “Costumes” tab. From here, you can export, upload, or record new sounds. To export a sound, click “Sounds,” then “Export,” and create a new folder to store your sounds. If you already have a designated folder (e.g., animal, effects, human), simply double-click on it to save your sounds.
+![sound](https://github.com/user-attachments/assets/ff9f0e32-9d0c-4c8f-9809-db5cdd609dca)
+
+
 
 
 
