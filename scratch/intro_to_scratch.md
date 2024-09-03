@@ -65,7 +65,14 @@ Looks blocks fall under the purple category of the programming palette. There ar
 
 1) Say “hello” for 2 seconds – allows you to program the sprite to give a word bubble that “says” what you have typed. Because the white space is fillable, you can delete hello and type another message. Note: You will SEE the sprite’s message, not hear it because this block is under the looks category.
   ![hello text](https://github.com/user-attachments/assets/11d9c05d-f7a8-4f40-b01e-0cdf30516c60)
- 
+
+2) Switch to costume – If you click on the “Costumes” tab beside the word “Scripts,” you will notice that some sprites have more than one costume. You can program the sprite to switch costumes. If the sprite does not have another costume, you can always create your own by clicking copy and then edit (see page 6 for more about painting a sprite).
+ ![switch costume](https://github.com/user-attachments/assets/ca52269e-e716-46a2-ba59-3997e48f8749)
+
+
+### Sound blocks
+Sound blocks fall under the fuchsia category and allow you to program the sprite to produce sounds or words you can hear. Click on the “Sounds” tab beside the word “Costumes,” to upload or record a new sound. Click Sounds, Upload and then create a new folder where you will keep your sounds. If folder already exists then you double-click on one of your folders (animal, effects, human, etc.).
+![sound](https://github.com/user-attachments/assets/1cab5f55-74ea-46cc-a5a2-46522770e5af)
 
 
 
