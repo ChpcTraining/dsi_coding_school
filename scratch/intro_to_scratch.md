@@ -52,11 +52,20 @@ Motion blocks fall under the blue category. There are several blocks that will a
 – the sprite will move *X* number of steps. You can change the value whenever there is a fillable white area in a programming block. For example, 10 steps can be changed to 25 steps. Positive values move forward (to the right) and negative values move backward (to the left).
 ![move script](https://github.com/user-attachments/assets/460ec727-af81-43a5-a394-5d03d644efd4)
 
+
+
 2) Glide__sec to x:___ y:____ - The sprite will glide to a specified position in X seconds. Remember: the more seconds you use, the slower/longer it will take the sprite to glide across the stage. Find a position on the stage that you would like the sprite to glide to and then move it there. Above the scripts area, you will find X and Y positions. Use these values to fill in the X and Y area on the glide block. Be sure to use a (-) sign when necessary.
    ![glide](https://github.com/user-attachments/assets/9fdcdab1-aa20-4378-a9ce-42199cc39e10)
 
+3) Go to x___ y:____ - this block is used to place the sprite at a specific position when the project begins, so you do not have to manually pick the sprite up and put it in that position every time you restart the project. For example, if the sprite glides when the green flag is clicked, it will move away from the beginning location. Instead of moving the sprite back to the spot where it originally began, you can program it to begin at that position.
+   ![go-glide](https://github.com/user-attachments/assets/cfb2982d-04e9-4c28-a16f-c3e832a5344b)
 
-   
+### Looks blocks
+Looks blocks fall under the purple category of the programming palette. There are several blocks to control what you SEE the sprite say or how the sprite looks.
+
+1) Say “hello” for 2 seconds – allows you to program the sprite to give a word bubble that “says” what you have typed. Because the white space is fillable, you can delete hello and type another message. Note: You will SEE the sprite’s message, not hear it because this block is under the looks category.
+  ![hello text](https://github.com/user-attachments/assets/11d9c05d-f7a8-4f40-b01e-0cdf30516c60)
+ 
 
 
 
