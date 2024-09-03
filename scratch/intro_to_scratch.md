@@ -73,7 +73,16 @@ Looks blocks fall under the purple category of the programming palette. There ar
 ### Sound blocks
 Sound blocks, found in the fuchsia category, enable you to program your sprite to produce sounds or spoken words. To manage sounds, click on the “Sounds” tab next to the “Costumes” tab. From here, you can export, upload, or record new sounds. To export a sound, click “Sounds,” then “Export,” and create a new folder to store your sounds. If you already have a designated folder (e.g., animal, effects, human), simply double-click on it to save your sounds.
 ![sound](https://github.com/user-attachments/assets/ff9f0e32-9d0c-4c8f-9809-db5cdd609dca)
+![sound and text script](https://github.com/user-attachments/assets/7bb5c30e-0d0e-4215-b37d-aff7ef71ea3f)
 
+
+### Choosing a new sprite
+If you prefer not to use the Scratch Cat as your sprite, **right-click** on its thumbnail and select "Delete," or simply click the trash bin icon attached to the cat's thumbnail.
+
+![delete script](https://github.com/user-attachments/assets/ea7a79da-8079-42b7-996c-64943470873f)
+
+
+There a three ways to choose a new sprite: paint, import or use a “mystery” sprite.
 
 
 
