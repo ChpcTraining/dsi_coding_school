@@ -42,13 +42,25 @@ Programming a sprite ALWAYS begins with a control block (orange/yellow category 
 3) *When sprite 1 is clicked* – The project will begin when the sprite is clicked. Note: Click the sprite on the stage, NOT the small thumbnail sprite shown underneath the stage.
 
 Drag the control block to the white scripting area. The next block will connect to this one like a puzzle piece.
-![scripting area](https://github.com/user-attachments/assets/4a1e5a82-9834-4b72-9ef5-8bd92ccd4a57)
+![scripting area](https://github.com/user-attachments/assets/6826b658-68bd-4e14-bcdc-23bb483f116c)
+
 
 ### Motion blocks 
 Motion blocks fall under the blue category. There are several blocks that will allow the sprite to move. This category teaches students to understand positives and negatives and other mathematical concepts, like degrees.
 
 1) ![move 10](https://github.com/user-attachments/assets/94814245-f311-4550-b2b4-63d5adb8df1c)
 – the sprite will move *X* number of steps. You can change the value whenever there is a fillable white area in a programming block. For example, 10 steps can be changed to 25 steps. Positive values move forward (to the right) and negative values move backward (to the left).
+![move script](https://github.com/user-attachments/assets/460ec727-af81-43a5-a394-5d03d644efd4)
+
+2) Glide__sec to x:___ y:____ - The sprite will glide to a specified position in X seconds. Remember: the more seconds you use, the slower/longer it will take the sprite to glide across the stage. Find a position on the stage that you would like the sprite to glide to and then move it there. Above the scripts area, you will find X and Y positions. Use these values to fill in the X and Y area on the glide block. Be sure to use a (-) sign when necessary.
+   ![glide](https://github.com/user-attachments/assets/9fdcdab1-aa20-4378-a9ce-42199cc39e10)
+
+
+   
+
+
+
+
 
 
 
