@@ -82,139 +82,31 @@ If you prefer not to use the Scratch Cat as your sprite, **right-click** on its 
 ![delete script](https://github.com/user-attachments/assets/ea7a79da-8079-42b7-996c-64943470873f)
 
 
-There a three ways to choose a new sprite: paint, import or use a “mystery” sprite.
+There are three ways to add a new sprite in Scratch: you can import an existing sprite, create one by painting, or choose a “surprise” sprite at random.
 
+![paint](https://github.com/user-attachments/assets/de310b3d-fce7-41c1-94fe-22de1adb593f)
 
+1) Paint a new sprite![new sprite](https://github.com/user-attachments/assets/f4da38e6-0456-4bc2-bf63-f7d5d1fe1b9c) - 
+allows you to use the paint editor to create your very own sprite. You can use a paint brush, paint bucket, lines, circles and squares to create your sprite.
 
 
+2) New sprite![new sprite template](https://github.com/user-attachments/assets/0a1fbd87-c904-440c-bd8d-3ea618ae9491) - 
+ allows you to choose from sprites that are available in Scratch. Double click on one of the categories to find a sprite you wish to use.
 
+3) Mystery sprite![random sprite template](https://github.com/user-attachments/assets/158e42e9-9a54-477f-b5b9-2a083f09ca56)
+ – Scratch will choose a random sprite for you.
 
+### Choosing a background
+To choose a new background click on the thumbnail that says stage. A blue line will appear around the box. Next, click on the “Backgrounds” tab beside the word “Script.” You can paint or import a background. If your computer has a webcam, you can also take a picture for the background.
 
 
+1) Painting your own background – Click paint and then the paint editor will open.
+![paint backdrop](https://github.com/user-attachments/assets/01f478c1-3421-46ab-97ce-9af4ad03af51)
 
 
+2) Uploading a background – Click on Upload Background to choose from backgrounds available in Scratch and then double-click on one of the folders.
+   ![upload backdrop](https://github.com/user-attachments/assets/284c56a8-9a47-4c32-9322-9d3fe37ef2ce)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6. Toolbar
-
-7. Creating a simple exercise
-
-8. Exercise 2
-
-9. Exercise 3
-
-10. ChpcTraining
-
-
+3) Importing a background ![scratch backdrop](https://github.com/user-attachments/assets/bcd583ab-8d59-46e2-b22d-d426df1b3af4)
+– Click on import to choose from backgrounds available in Scratch and then double-click on one of the thematic folders.
+![scratch choose backdrop](https://github.com/user-attachments/assets/8d408910-194a-4501-a643-92218b4a5107)
