@@ -17,5 +17,7 @@
 # Timetable
 Everyday will compromise of the different session as detailed in this timetable. A [PDF Version of the timetable](./resources/Programme_DSI_CHPC_WorkshopSep24.pdf) is avaliable for you to download.
 
-<p align="center"><img alt="Timetable." src="resources/Programme_DSI_CHPC_WorkshopSep24.pdf" width=900 /></p>
+<p align="center">
+  <iframe src="resources/Programme_DSI_CHPC_WorkshopSep24.pdf"></iframe>
+</p>
 
