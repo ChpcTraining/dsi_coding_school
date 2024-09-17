@@ -10,7 +10,7 @@ Restart your pc after you have inserted the usb flash drive. The media should be
 
 > In the case that pressing F12 doesn't direct you to the boot menu, there is a message that appears on the screen when the machine is starting up which states which key to press to access the boot menu.
 
-Once this is done correctly you should see a screen that looks like the one shown in //[Figure 1](#fig1), click on the **Install Ubuntu** option.
+Once this is done correctly you should see a screen that looks like the one shown in [Figure 1](#fig1), click on the **Install Ubuntu** option.
 
 <span id="fig1" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
     <img alt="test" src="./resources/welcomescreen.PNG" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
