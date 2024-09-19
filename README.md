@@ -3,6 +3,8 @@ Insert a brief desciption of what the workshop is about
 ## Scratch
 
 ### Scratch Introduction
+**Scratch**
+is a visual programming language developed by the MIT (Massachusetts Institute of Technology) Media Lab to teach programming fundamentals through a user-friendly, drag-and-drop interface. It allows users, particularly beginners and children, to create interactive stories, games, and animations by snapping together colourful code blocks. The scratch platform promotes understanding of programming concepts without writing complex code and supports a vibrant community where users can share and remix projects. Scratch is widely used in education to foster computational thinking, creativity, and problem-solving skills.
 
 ### Robotics
 
