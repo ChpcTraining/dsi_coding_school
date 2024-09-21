@@ -133,4 +133,4 @@ Change the values to see the angle of the servo change.
 
 If you have reached this point well done. Now we will put everything together that we have learnt and build our Robotic Arm!
 
-Go to this page: 
+Go to this page: https://github.com/ChpcTraining/dsi_coding_school/blob/dev/robotics/robotic_arm_project.md
