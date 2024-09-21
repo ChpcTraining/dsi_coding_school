@@ -75,3 +75,7 @@ What resources limitations did you have?
 What are the limitations of the Robotic Arm, what can and can it not do?
 
 What alternative designs can you recommend or different materials used?
+
+# End of Lesson:
+
+Well done if you have gotten to the end. I hope you have learnt something about robotics!
