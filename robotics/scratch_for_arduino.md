@@ -57,20 +57,80 @@ Modify the "wait" time
 
 Now let us connect out two servo motors to the Arduino.
 
+We have our Arm motor and Gripper motor.
+
 Remember the wiring:
 
 ![image](https://github.com/user-attachments/assets/4cfe076d-804f-4059-a592-9aa57c52bd90)
 
+Now your Arduino looks something like this:
 
+![image](https://github.com/user-attachments/assets/bf9e9c18-5c88-49e5-b700-03d16c5f1ea1)
+
+We need to power both servos with these pins:
+
+![image](https://github.com/user-attachments/assets/7c2c3736-570d-4a81-ac6a-eddd5293a9e2)
+
+And we will control the angle with these pins:
+
+![image](https://github.com/user-attachments/assets/a936f64f-29ff-4c45-8ceb-c67b481986f6)
+
+When we learnt about servo motors we saw our one requires a DC voltage of:
+
+![image](https://github.com/user-attachments/assets/ebfbe71d-ed02-49ad-a0ca-9fe64327f1b8)
+
+And on our Arduino we have only 5V voltage pin, yet we have two motors :( 
+
+However, we can also use the 3.3V voltage pin, it is not ideal but it will still work :)
+
+So let us start with Gripper motor. 
+
+Using the male to male wires:
+
+- Connect the 3.3V pin from your Arduino to the red connector on your Gripper motor
+- Connect a GND (ground) pin from your Arduino to the brown connector on your Gripper motor
+- Connect pin 4 from your Arduino to the orange connector on your Gripper motor
+
+![image](https://github.com/user-attachments/assets/d8225372-5a0c-4135-bc23-c2a3e141e559)
+
+Next let us do the Arm motor. 
+
+Using the male to male wires:
+
+- Connect the 5V pin from your Arduino to the red connector on your Arm motor
+- Connect a GND (ground) pin from your Arduino to the brown connector on your Arm motor
+- Connect pin 8 from your Arduino to the orange connector on your Arm motor
+
+So you should end up with the following:
+
+![image](https://github.com/user-attachments/assets/1b4f1f19-2800-451a-a600-56ece2b5b0c0)
+
+Why do you think we chose 5V for the Lifting motor?
 
 ## Scratch Code
 
+Now that you have connected your motors let us test them out.
+
+Create the following Scratch code blocks:
+
 ![image](https://github.com/user-attachments/assets/ff34b113-232c-4fa8-be66-d9eda507e772)
 
+What does it do?
 
+Change the motor value from "4" to "8" to control the other motor.
 
+Create a new project but now use the motor block:
 
+![image](https://github.com/user-attachments/assets/3fd859a9-08c6-4b27-938b-1b366f97b870)
+
+Change the values to see the angle of the servo change.
 
 # What the "code" actually looks like
 
 ![image](https://github.com/user-attachments/assets/df7f1d4b-0ae1-487c-9bf8-badbe9acfc83)
+
+# Next Lesson
+
+If you have reached this point well done. Now we will put everything together that we have learnt and build our Robotic Arm!
+
+Go to this page: 
