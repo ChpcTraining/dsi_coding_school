@@ -8,6 +8,9 @@ is a visual programming language developed by the MIT (Massachusetts Institute o
 
 ### Robotics
 
+This introduction to **robotics** for covers the essential components of robotics, including mechanics, electronics, coding, and sensors. It explains how these disciplines combine to create robots, emphasizing the role of microcontrollers and how it is used with an Arduino. 
+As a practical project, we will Scratch for Arduino to build a simple robotic arm. You will program servos to control the arm's joints, learning to adjust angles and movements. This hands-on project introduces you to the basics of controlling mechanical parts with code, providing an interactive way to explore robotics and electronics.
+
 ## Virtual Resources
 **Virtual resources** refer to computing components like CPUs, storage, and networks that are abstracted from the physical hardware and are made available in a virtualized environment. These resources enable users to run operating systems, applications, and services without the need for dedicated physical hardware. Virtual resources are typically used in the form of **virtual machines (VMs)** or **cloud computing** services.
 
