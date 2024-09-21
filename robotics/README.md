@@ -200,7 +200,7 @@ Lesson: This project demonstrates how tendons and muscles work in the human hand
 
 # Next Lesson
 
-If you have gone through this material then please go on to the next section we cover Scratch for Arduino.
+If you have gone through this material then please go on to the next section we cover Scratch for Arduino. Go to this page: https://github.com/ChpcTraining/dsi_coding_school/blob/dev/robotics/scratch_for_arduino.md
 
 
 
