@@ -15,6 +15,8 @@ Core Components:
 - Electronics: Power and control systems
 - Programming: Logic and decision-making
 
+The field of mechatronics is closed related to robotics as you can see in the image below:
+
   ![image](https://github.com/user-attachments/assets/30f99566-2dcb-4bf5-a03a-23285b114e71)
 
 It is key to STEM Learning where it combines science, technology, engineering, and mathematics in an engaging way. Many career opportunities exist and it prepares students for future tech-related jobs. There are various  skills that it teaches:
