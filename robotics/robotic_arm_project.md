@@ -15,31 +15,52 @@ Core Components:
 # List of Items
 
 - Arduino
-- Male to male wires
+- Male to male jumper wires
 - USB cable
 - 2x servo motors (gripper and arm)
 - ice cream stick (arm)
-- fluff balls
-- sticker eyes
-- double sided table
-- scissors
 - tub
 
-# Method
+![image](https://github.com/user-attachments/assets/6428d41c-62d2-4ac0-bae4-354fd50601c4)
+
+To construct everything you will have the following:
+- double sided table
+- scissors
+
+# Build the Robotic Arm:
 
 Planning:
+
+Before constructing your Robotic Arm first get familiar with your items and how best to secure them together: 
 
 - Flip your tub around, it will act as your base for your Robotic arm
 - Your Arduino will sit on the bottom of the tub
 - Your lifting servo motor should sit on side of the tub base – where is a good spot?
 - Your ice cream stick arm needs to be secured to the lifting servo motor – where is a good spot?
-- At the end of ice cream stick arm you need to attach your grabber servo motor – where is good spot?
+- At the end of ice cream stick arm you need to attach your grabber servo motor – where is a good spot?
 
-Using double sided table:
-- Flip your tub around, secure your Arduino and lifting servo motor
-- Attach the ice cream stick arm to the lifting servo motor 
-- Build up the grabber servo motor
-- At the end of ice cream stick arm secure your grabber servo motor
+Using double sided tape:
+- Secure your Arduino to the tub:
+
+![image](https://github.com/user-attachments/assets/afa383bd-0c09-4aed-8e0e-479947212a56)
+
+- Next attach the Arm motor to the base and connect the ice cream stick to the Arm motor:
+
+![image](https://github.com/user-attachments/assets/8656d4ea-a63f-4650-abd9-05044f227ef0)
+
+- Next connect the wires if not already connected:
+
+![image](https://github.com/user-attachments/assets/19fc3ce1-f29a-4254-b292-1e60d6477148)
+
+- Attach the the Gripper motor to the end of Arm motor stick:
+
+![image](https://github.com/user-attachments/assets/5a23d136-4851-4537-9db1-bd89cb12ce9a)
+
+- Next connect the wires if not already connected:
+
+![image](https://github.com/user-attachments/assets/77c10d96-93b5-43d7-ad8b-c163fa73dd98)
+
+# Testing the Robotic Arm:
 
 Build a new project using the following Scratch code blocks:
 
