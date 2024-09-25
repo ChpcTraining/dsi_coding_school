@@ -1,6 +1,5 @@
 # Department of Science and Innovation (DSI) - Centre for High Performance Computing (CHPC) Computer Hardware and Programming Workshop
 Insert a brief desciption of what the workshop is about
-## Scratch
 
 ### Scratch
 **Scratch**
