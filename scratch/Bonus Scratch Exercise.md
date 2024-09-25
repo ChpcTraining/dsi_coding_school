@@ -1,6 +1,7 @@
 # The cat and mouse game
 Use your computational thinking skills to develop your own game like the cat and mouse game described below:
-The cat is chasing the mouse and tries to capture it. It involves constant pursuit, near captures, and repeated escapes. The "cat" cannot secure a definitive victory over the "mouse", who, despite not being able to defeat the cat, can avoid capture. 
+
+A cat chasing a mouse and trying to capture it. The game it involves constant pursuit, near captures, and repeated escapes. The cat cannot secure a definitive victory over the mouse, who, despite not being able to defeat the cat, can avoid capture. 
 
 ## Step 1
 Use the Cat sprite and add code for the Cat sprite to continue moving until the mouse pointer is reached.
