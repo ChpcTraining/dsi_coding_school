@@ -55,3 +55,22 @@ So this is just a list of instructions that your computer will interpret. Follow
 Then the `void loop() {` section happens forever, just like the `forever` control we used in Scratch.
 
 Take note of the how the instructions are ordered, the syntax, brackets etc. This all forms part of programming.
+
+# Online Arduino Simulation
+
+https://wokwi.com/projects/new/arduino-uno
+
+![image](https://github.com/user-attachments/assets/c9f2875e-6232-47b5-a364-5cde7b10d9bd)
+
+![image](https://github.com/user-attachments/assets/393d5f43-d7ed-4f9f-8004-9a3ef66b9cf2)
+
+![image](https://github.com/user-attachments/assets/f31715f1-f221-4cb3-89c2-5f80f9c4a6a9)
+
+![image](https://github.com/user-attachments/assets/cc2493c3-293d-48d6-b74f-03b0a20f297d)
+
+![image](https://github.com/user-attachments/assets/4dcbbeab-40f1-4523-b1c2-299b509b437d)
+
+
+
+
+
