@@ -48,5 +48,10 @@ This is the same as:
 
 ![image](https://github.com/user-attachments/assets/55e599e6-0104-4535-aec6-4ee5746d7657)
 
+So this is just a list of instructions that your computer will interpret. Follow the arrows:
 
+![image](https://github.com/user-attachments/assets/648f2aed-4e1a-43d6-9818-8bf12133d03b)
 
+Then the `void loop() {` section happens forever, just like the `forever` control we used in Scratch.
+
+Take note of the how the instructions are ordered, the syntax, brackets etc. This all forms part of programming.
