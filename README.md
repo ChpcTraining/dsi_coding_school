@@ -28,6 +28,9 @@ In this session, participants will be guided through the process of installing U
 
 ### Cloud Deployment
 
+In this session you will learn what cloud computing is and why it important in the internet age. In the end you should be able to create your own virtual desktop to use at home or anywhere. This session is about the workshop education continuation beyond this week period. You will learn how to create your virtal computer with Windows and then install all the Scratch programs for you to continue learning and practicing the Scrach programing language with robotics beyong the workshop week.
+
+
 ## Computer Hardware
 
 # Timetable
