@@ -25,3 +25,28 @@ Version control and collaboration: Professional coding often involves working on
 For teachers, it's vital to help students see that Scratch is just the beginning. Text-based programming is critical to many careers—ranging from software development to data science—and introducing students to it early gives them a better understanding of the broader coding landscape. Transitioning from Scratch to text-based coding is like moving from building blocks to blueprints—both are essential but serve different stages in a student's development.
 
 Encourage students to see coding as a journey. Once they grasp the concepts in Scratch, they should be challenged with text-based coding platforms like Python, where they can apply the same logic to more complex, real-world problems.
+
+# Coding in the Arduino IDE
+
+In windows search for Arduino IDE and open it:
+
+![image](https://github.com/user-attachments/assets/db0f756d-ab72-4817-aa2a-5a07649553f7)
+
+You will see:
+
+![image](https://github.com/user-attachments/assets/1f4efcd3-147c-4669-acec-ecd95c96a17d)
+
+Now open an example piece of code, File -> Examples -> 01. Basics -> Blink 
+
+![image](https://github.com/user-attachments/assets/50265988-270f-47ae-b2d8-3bd7a4089d0c)
+
+And you will see:
+
+![image](https://github.com/user-attachments/assets/3cf09ae8-4c89-4477-9f10-087f1431bbbd)
+
+This is the same as:
+
+![image](https://github.com/user-attachments/assets/55e599e6-0104-4535-aec6-4ee5746d7657)
+
+
+
