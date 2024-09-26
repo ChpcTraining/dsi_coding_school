@@ -1,8 +1,6 @@
 # Department of Science and Innovation (DSI) - Centre for High Performance Computing (CHPC) Computer Hardware and Programming Workshop
 Insert a brief desciption of what the workshop is about
-## Scratch
-
-### Scratch Introduction
+### Scratch
 **Scratch**
 is a visual programming language developed by the MIT (Massachusetts Institute of Technology) Media Lab to teach programming fundamentals through a user-friendly, drag-and-drop interface. It allows users, particularly beginners and children, to create interactive stories, games, and animations by snapping together colourful code blocks. The scratch platform promotes understanding of programming concepts without writing complex code and supports a vibrant community where users can share and remix projects. Scratch is widely used in education to foster computational thinking, creativity, and problem-solving skills.
 
@@ -28,6 +26,9 @@ In the porton of the  workshop, we will cover two key aspects of virtual resourc
 In this session, participants will be guided through the process of installing Ubuntu on a virtual machine using VirtualBox. The session is focused on setting up a virtualized environment, allowing you to run Ubuntu on your local machine without the need for dedicated hardware. This will provide hands-on experience in creating and managing virtual machines, an essential skill for modern computing environments. It also include the introductaion to a terminbal and using it to run some basic commands.
 
 ### Cloud Deployment
+
+In this session you will learn what cloud computing is and why it important in the internet age. In the end you should be able to create your own virtual desktop to use at home or anywhere. This session is about the workshop education continuation beyond this week period. You will learn how to create your virtal computer with Windows and then install all the Scratch programs for you to continue learning and practicing the Scrach programing language with robotics beyong the workshop week.
+
 
 ## Computer Hardware
 
