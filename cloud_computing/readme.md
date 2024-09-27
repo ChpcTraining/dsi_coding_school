@@ -1,6 +1,6 @@
 # Introduction to the cloud computing
 
-Cloud computing is about accessing or using computing resources over the internet from anywhere. This page shows how to create your virtal computer with Windows and then install all the Scratch programs for you to continue learning and practicing the Scrach programing language with robotics beyong the workshop week. The cloud platform used is a NICIS Cloud called Sebowa.  
+Cloud computing is about accessing or using computing resources over the internet from anywhere. This page shows how to create your virtal computer with Windows and then install all the Scratch programs for you to continue learning and practicing the Scrach programing language with robotics beyong the workshop week. The cloud platform used is a NICIS Cloud called Sebowa. 
 
 ---
 
