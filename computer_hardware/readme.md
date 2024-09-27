@@ -3,7 +3,7 @@
 The goal of this section is to identify the different computer hardware components and their functionality. They are also listed in the order that can be followed when disabling the computer parts.
 
 <span id="fig1" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
-    <img alt="test" src="./resources/computer_components.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
+    <img alt="test" src="./resources/computer_components.jpeg" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
     <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>Figure 1: Computer components.</i></span>
 </span>
 
@@ -21,8 +21,10 @@ b. **Software** is anything that tells hardware what to do and how to do it, inc
 
 <span id="fig2" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
     <img alt="test" src="./resources/types_computerhardware.jpg" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>Figure 2: Types of Computer Hardware.</i></span>
+    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>
+    Figure 2: Types of Computer Hardware.</i></span>
 </span>
+
 
 a.) **System fan**:
 
@@ -30,7 +32,8 @@ It is used for active cooling by blowing air into the computer components and wa
 
 <span id="fig3" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
     <img alt="test" src="./resources/system_fan.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>Figure 3: System Fan.</i></span>
+    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>
+    Figure 3: System Fan.</i></span>
 </span>
 
 * You will start by removing the system fan first. It is located at the back side of the computer, the side with all the component plugins.
@@ -44,14 +47,15 @@ The one blowing air onto the CPU heat sink.
 
 <span id="fig4" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
     <img alt="test" src="./resources/cpu_fan.jpg" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>Figure 4: CPU Fan.</i></span>
+    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>
+    Figure 4: CPU Fan.</i></span>
 </span>
 
 * Now that the system fan is out, we can remove the CPU fan.
 * The CPU fan is located right on top of the CPU heat sink, which is a large piece of metal with fins on the top. The CPU fan plugs into the motherboard in an awkward place, that is hard to access. But just follow the wires and you should easily find it. It is labeled "CPU FAN1". To remove the fan from the heat sink, remove the four screws securing it in place.
 
 
-c.) ** Power Supply**
+c.) **Power Supply**
 
 It converts the alternating current (AC) from a wall socket of mains electricity to a low-voltage direct current (DC) to operate the motherboard, processor and peripheral devices.
 
