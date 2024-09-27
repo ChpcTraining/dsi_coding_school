@@ -21,22 +21,22 @@ Once logged in on Sebowa cloud portal
 
 <span id="fig1" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
     <img alt="test" src="./resources/launchpopup.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>Figure 1: Computer components.</i></span>
+    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i></i></span>
 </span>
 
 4. Click `Source` and on **Create New Volume** click `No`.
 5. On the search bar under Available type `windows` and select **Windows10-enterprise-64bit**  by clicking the upward arrow next to it. The Windows10-enterprise-64bit should appear under `Allocated`.
 
-<span id="fig1" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
+<span id="fig2" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
     <img alt="test" src="./resources/windowsimage.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i> select Windows10-enterprise-64bit  </i></span>
+    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i> </i></span>
 </span>
 
 6. Click `Flavor` on your right, On the search bar under Available type `c8` and select **C8.Medium**  by clicking the upward arrow next to it. The Windows10-enterprise-64bit should appear under `Allocated`. 
 
-<span id="fig1" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
+<span id="fig3" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
     <img alt="test" src="./resources/flavor.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i> select C8.Medium flavor  </i></span>
+    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i> </i></span>
 </span>
 
 7. click `Networks` on your right, On the search bar under Available type `vxlan` and select **Education-vxlan**  by clicking the upward arrow next to it. The Education-vxlan should appear under `Allocated`
