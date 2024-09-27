@@ -1,3 +1,7 @@
+# What the "code" actually looks like
+
+![image](https://github.com/user-attachments/assets/df7f1d4b-0ae1-487c-9bf8-badbe9acfc83)
+
 # Introduction
 
 Scratch is a powerful introduction to coding concepts, especially for young learners. It's a visual programming language designed to help students grasp the fundamentals of computational thinking, like loops, conditionals, and variables, without getting bogged down by the complexity of syntax. The blocks in Scratch represent code that students can drag, drop, and arrange to create interactive stories, animations, or games, making it very accessible and intuitive.
