@@ -24,8 +24,33 @@ Core Components:
 ![image](https://github.com/user-attachments/assets/6428d41c-62d2-4ac0-bae4-354fd50601c4)
 
 To construct everything you will have the following:
-- double sided table
-- scissors
+- double sided tape of various sizes
+
+# Build the Robotic Gripper:
+
+On your motor you have a section where the wires are coming out. This is the front of your motor. Then there is a white plastic lever at the bottom as shown here:
+
+![image](https://github.com/user-attachments/assets/343e1999-9523-4562-a7c5-650e87ee5398)
+
+Take the two plastic eyes in your tub and a small piece of double sided tape and secure it just below where the wires come out.
+
+This will help you remember where the front of the motor is when it turns.
+
+Now, also in your tub you have 3 small parts, A, B, C for the gripper motor, shown here:
+
+![image](https://github.com/user-attachments/assets/7c552bf0-c9ec-46f0-adf0-a9d516dda345)
+
+You also have 3 blocks of double sided tape squares. 
+
+You have a smaller block of double sided tape square which you should use for the gripper motor.
+
+1. Secure part A to the side of the motor
+2. Secure part B to part A
+3. Secure part C to the lever on the motor 
+
+| ![Image 1](https://github.com/user-attachments/assets/34a6cb22-ca5f-4cf2-a36e-cc6b96197652) | ![Image 2](https://github.com/user-attachments/assets/ecc23266-e77d-44fe-a3a5-5014c5760f34) |
+|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
+
 
 # Build the Robotic Arm:
 
