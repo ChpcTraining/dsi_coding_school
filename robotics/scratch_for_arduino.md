@@ -37,7 +37,7 @@ You should see some flashing lights on your Arduino board, and now in Scratch yo
 ![image](https://github.com/user-attachments/assets/b3e47a4a-5d8f-4df0-97fa-cf13e7ec2ecc)
 
 What is important to see is all those text fields have numbers changing all the time and it says "port: COM10" it may be
-a different on you laptop like "port: COM5" or "port: COM3", this just tells us that Scratch is now connected to you Arduino!
+a different on you laptop like "port: COM5" or "port: COM3", this just tells us that Scratch is now connected to your Arduino!
 
 ![image](https://github.com/user-attachments/assets/37ed8646-f4e2-43af-9a08-0e022bfe8680)
 
