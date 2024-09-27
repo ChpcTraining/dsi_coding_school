@@ -7,8 +7,9 @@ Cloud computing is about accessing or using computing resources over the interne
 ## Accessing Sebowa cloud portal
 
 Open any web browser of your choice (ie. chrome, firefox etc):
-1. type `https://sebowa.nicis.ac.za` 
+1. type `https://sebowa.nicis.ac.za`. 
 2. Enter the provided username and password.
+---
 
 
 ### Creating virtual computer 
@@ -19,7 +20,7 @@ Once logged in on Sebowa cloud portal
 3. Name your computer under `Instance Name`. 
 
 <span id="fig1" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
-    <img alt="test" src="./resources/" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
+    <img alt="test" src="./resources/launchpopup.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
     <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>Figure 1: Computer components.</i></span>
 </span>
 
@@ -40,6 +41,7 @@ Once logged in on Sebowa cloud portal
 
 7. click `Networks` on your right, On the search bar under Available type `vxlan` and select **Education-vxlan**  by clicking the upward arrow next to it. The Education-vxlan should appear under `Allocated`
 8. Click `Launce Instance` bottom right and wait 
+---
 
 
 ## Installing Scratch software tools
