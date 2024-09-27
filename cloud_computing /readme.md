@@ -8,30 +8,30 @@ Cloud computing is about accessing or using computing resources over the interne
 
 Open any web browser of your choice (ie. chrome, firefox etc):
 1. type `https://sebowa.nicis.ac.za` 
-2. Enter the provided username and password. 
+2. Enter the provided username and password.
 
 
- ### Creating virtual computer 
+### Creating virtual computer 
 
 Once logged in on Sebowa cloud portal
 1. Navigate to and click `Compute` then `Instances` on the right 
 2. Click `Launch Instance` and Launce instance window menu will pop up
-3. Name your computer under `Instance Name` 
+3. Name your computer under `Instance Name`. 
 
 <span id="fig1" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
-    <img alt="test" src="./resources/launchpopup.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
+    <img alt="test" src="./resources/" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
     <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>Figure 1: Computer components.</i></span>
 </span>
 
-4. Click `Source` and on **Create New Volume** click `No`
-5. On the search bar under Available type `windows` and select **Windows10-enterprise-64bit**  by clicking the upward arrow next to it. The Windows10-enterprise-64bit should appear under `Allocated` 
+4. Click `Source` and on **Create New Volume** click `No`.
+5. On the search bar under Available type `windows` and select **Windows10-enterprise-64bit**  by clicking the upward arrow next to it. The Windows10-enterprise-64bit should appear under `Allocated`.
 
 <span id="fig1" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
     <img alt="test" src="./resources/windowsimage.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
     <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i> select Windows10-enterprise-64bit  </i></span>
 </span>
 
-6. Click `Flavor` on your right, On the search bar under Available type `c8` and select **C8.Medium**  by clicking the upward arrow next to it. The Windows10-enterprise-64bit should appear under `Allocated` 
+6. Click `Flavor` on your right, On the search bar under Available type `c8` and select **C8.Medium**  by clicking the upward arrow next to it. The Windows10-enterprise-64bit should appear under `Allocated`. 
 
 <span id="fig1" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
     <img alt="test" src="./resources/flavor.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
@@ -51,7 +51,6 @@ Once logged in on Sebowa cloud portal
 4. On your computer navigate to downloads and click on `open file link`
 5. on the pop-up window select **only for me (user)** and click install
 6. click Finish
-
 
 
 ### Installing S4A 
