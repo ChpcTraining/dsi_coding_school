@@ -19,9 +19,10 @@ Once logged in on Sebowa cloud portal
 2. Click `Launch Instance` and Launce instance window menu will pop up
 3. Name your computer under `Instance Name` 
 
+
 <span id="fig1" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
     <img alt="test" src="./resources/launchpopup.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i> Instance Launch pop up menu.</i></span>
+    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>Figure 1: Computer components.</i></span>
 </span>
 
 4. Click `Source` and on **Create New Volume** click `No`
