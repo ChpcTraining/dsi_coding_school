@@ -1,6 +1,7 @@
 # Introduction to the cloud computing
 
 Cloud computing is about accessing or using computing resources over the internet from anywhere. This page shows how to create your virtal computer with Windows and then install all the Scratch programs for you to continue learning and practicing the Scrach programing language with robotics beyong the workshop week. The cloud platform used is a NICIS Cloud called Sebowa.  
+
 ---
 
 ## Accessing Sebowa cloud portal
@@ -8,7 +9,7 @@ Cloud computing is about accessing or using computing resources over the interne
 Open any web browser of your choice (ie. chrome, firefox etc):
 1. type `https://sebowa.nicis.ac.za` 
 2. Enter the provided username and password. 
----
+
 
  ### Creating virtual computer 
 
@@ -39,7 +40,7 @@ Once logged in on Sebowa cloud portal
 
 7. click `Networks` on your right, On the search bar under Available type `vxlan` and select **Education-vxlan**  by clicking the upward arrow next to it. The Education-vxlan should appear under `Allocated`
 8. Click `Launce Instance` bottom right and wait 
----
+
 
 ## Installing Scratch software tools
 
@@ -50,7 +51,7 @@ Once logged in on Sebowa cloud portal
 4. On your computer navigate to downloads and click on `open file link`
 5. on the pop-up window select **only for me (user)** and click install
 6. click Finish
----
+
 
 
 ### Installing S4A 
