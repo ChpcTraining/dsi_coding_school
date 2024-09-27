@@ -33,6 +33,8 @@ In this session you will learn what cloud computing is and why it important in t
 
 ## Computer Hardware
 
+In this session, participants will gain a comprehensive understanding of computer hardware. You will learn how to disassemble a computer, identify its various components, and understand the functionalities of each. This hands-on experience will provide insight into how these hardware mechanisms work together to ensure the proper functioning of a computer. Following the disassembly, we will reassemble the hardware components, restoring the computer to its fully operational state.
+
 # Timetable
 Everyday will compromise of the different session as briefly shown in this timetable. A detailed [PDF Version of the timetable](./resources/Programme_DSI_CHPC_WorkshopSep24.pdf) is avaliable for you to download.
                       
