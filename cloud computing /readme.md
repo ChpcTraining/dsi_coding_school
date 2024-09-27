@@ -24,22 +24,22 @@ Once logged in on Sebowa cloud portal
     <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i> Instance Launch pop up menu.</i></span>
 </span>
 
-4. Click `Source` and on *** Create New Volume *** click `No`
-5. On the search bar under Available type `windows` and select *** Windows10-enterprise-64bit ***  by clicking the upward arrow next to it. The Windows10-enterprise-64bit should appear under `Allocated` 
+4. Click `Source` and on **Create New Volume** click `No`
+5. On the search bar under Available type `windows` and select **Windows10-enterprise-64bit**  by clicking the upward arrow next to it. The Windows10-enterprise-64bit should appear under `Allocated` 
 
 <span id="fig1" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
     <img alt="test" src="./resources/windowsimage.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
     <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i> select Windows10-enterprise-64bit  </i></span>
 </span>
 
-6. Click `Flavor` on your right, On the search bar under Available type `c8` and select *** C8.Medium ***  by clicking the upward arrow next to it. The Windows10-enterprise-64bit should appear under `Allocated` 
+6. Click `Flavor` on your right, On the search bar under Available type `c8` and select **C8.Medium**  by clicking the upward arrow next to it. The Windows10-enterprise-64bit should appear under `Allocated` 
 
 <span id="fig1" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
     <img alt="test" src="./resources/flavor.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
     <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i> select C8.Medium flavor  </i></span>
 </span>
 
-7. click `Networks` on your right, On the search bar under Available type `vxlan` and select *** Education-vxlan ***  by clicking the upward arrow next to it. The Education-vxlan should appear under `Allocated`
+7. click `Networks` on your right, On the search bar under Available type `vxlan` and select **Education-vxlan**  by clicking the upward arrow next to it. The Education-vxlan should appear under `Allocated`
 8. Click `Launce Instance` bottom right and wait 
 
 ---
@@ -67,12 +67,10 @@ Once logged in on Sebowa cloud portal
     - click Ok english language 
     - click Next on welcome 
     - accept agreement and Next 
-    - click Next consecutively until  Install and lastly click Finish and the program will open automatically 
+    - click Next consecutively until  Install and lastly click Finish and the program will open automatically.
 
 6. Install Firmware into your Arduino 
-    - Follow instructions on this link `https://s4a.cat/` under *** Download and Install ***
+    - Follow instructions on this link `https://s4a.cat/` under **Download and Install** 
 
 7. Now install the Arduino drivers
-    -   - Follow instructions on this link `https://s4a.cat/` under *** Download and Install *** 
-
-
+    - Follow instructions on this link `https://s4a.cat/` under **Download and Install**
