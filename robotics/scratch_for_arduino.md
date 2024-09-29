@@ -57,6 +57,8 @@ Modify the "wait" time
 
 Now let us connect the two servo motors to the Arduino.
 
+***NOTE: Please do not try to turn the motor with your hand, you can break it!***
+
 We have our Arm motor and Gripper motor.
 
 Remember the wiring:
