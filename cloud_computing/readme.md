@@ -38,16 +38,15 @@ Once logged in on Sebowa cloud portal
 
 ---
 
-
 ## Installing Scratch software tools
 
 ### Installing Scratch 
-1. Navigate to console by clicking on Instance name 
+1. Navigate to console by clicking on your instance name 
 2. on the search box at the bottom, type scratch or click the web  browser (green icon) next to it search for scratch. 
-3. click a Download on the first link with `https://scratch.mit.edu`, click Direct download under **Install the Scratch app on windows**   
-4. On your computer navigate to downloads and click on `open file link`
-5. on the pop-up window select **only for me (user)** and click install
-6. click Finish
+3. click Download on the first link with `https://scratch.mit.edu`, click Direct download under **Install the Scratch app on windows**   
+4. On your computer navigate to downloads top right and click on `open file link`
+5. On the pop-up window select **only for me (user)** and click Install
+6. Lastly click Finish
 
 
 ### Installing S4A 
