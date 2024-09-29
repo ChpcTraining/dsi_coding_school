@@ -18,6 +18,8 @@ Once logged in on Sebowa cloud portal
 1. Navigate to and click `Compute` then `Instances` on the right 
 2. Click `Launch Instance` and Launce instance window menu will pop up.
 3. Name your computer under `Instance Name`. 
+![image](<launchpopup .png>)
+
 4. Click `Source` and on **Create New Volume** click `No`.
 5. On the search bar under Available type `windows` and select **Windows10-enterprise-64bit**  by clicking the upward arrow next to it. The Windows10-enterprise-64bit should appear under `Allocated`.
 
