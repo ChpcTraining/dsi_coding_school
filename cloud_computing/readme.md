@@ -16,28 +16,12 @@ Open any web browser of your choice (ie. chrome, firefox etc):
 
 Once logged in on Sebowa cloud portal
 1. Navigate to and click `Compute` then `Instances` on the right 
-2. Click `Launch Instance` and Launce instance window menu will pop up
+2. Click `Launch Instance` and Launce instance window menu will pop up.
 3. Name your computer under `Instance Name`. 
-
-<span id="fig1" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
-    <img alt="test" src="./resources/launchpopup.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i></i></span>
-</span>
-
 4. Click `Source` and on **Create New Volume** click `No`.
 5. On the search bar under Available type `windows` and select **Windows10-enterprise-64bit**  by clicking the upward arrow next to it. The Windows10-enterprise-64bit should appear under `Allocated`.
 
-<span id="fig2" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
-    <img alt="test" src="./resources/windowsimage.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i> </i></span>
-</span>
-
 6. Click `Flavor` on your right, On the search bar under Available type `c8` and select **C8.Medium**  by clicking the upward arrow next to it. The Windows10-enterprise-64bit should appear under `Allocated`. 
-
-<span id="fig3" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
-    <img alt="test" src="./resources/flavor.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i> </i></span>
-</span>
 
 7. click `Networks` on your right, On the search bar under Available type `vxlan` and select **Education-vxlan**  by clicking the upward arrow next to it. The Education-vxlan should appear under `Allocated`
 8. Click `Launce Instance` bottom right and wait 
