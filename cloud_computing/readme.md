@@ -18,25 +18,35 @@ Once logged in on Sebowa cloud portal
 1. Navigate to and click `Compute` then `Instances` on the right 
 2. Click `Launch Instance` and Launce instance window menu will pop up.
 3. Name your computer under `Instance Name`. 
+
+![image](<launchpopup .png>)
+
+
 4. Click `Source` and on **Create New Volume** click `No`.
 5. On the search bar under Available type `windows` and select **Windows10-enterprise-64bit**  by clicking the upward arrow next to it. The Windows10-enterprise-64bit should appear under `Allocated`.
 
+![image](windowsimage.png)
+
 6. Click `Flavor` on your right, On the search bar under Available type `c8` and select **C8.Medium**  by clicking the upward arrow next to it. The Windows10-enterprise-64bit should appear under `Allocated`. 
+
+![image](flavor.png)
 
 7. click `Networks` on your right, On the search bar under Available type `vxlan` and select **Education-vxlan**  by clicking the upward arrow next to it. The Education-vxlan should appear under `Allocated`
 8. Click `Launce Instance` bottom right and wait 
----
 
+![image](vxlan.png)
+
+---
 
 ## Installing Scratch software tools
 
 ### Installing Scratch 
-1. Navigate to console by clicking on Instance name 
+1. Navigate to console by clicking on your instance name 
 2. on the search box at the bottom, type scratch or click the web  browser (green icon) next to it search for scratch. 
-3. click a Download on the first link with `https://scratch.mit.edu`, click Direct download under **Install the Scratch app on windows**   
-4. On your computer navigate to downloads and click on `open file link`
-5. on the pop-up window select **only for me (user)** and click install
-6. click Finish
+3. click Download on the first link with `https://scratch.mit.edu`, click Direct download under **Install the Scratch app on windows**   
+4. On your computer navigate to downloads top right and click on `open file link`
+5. On the pop-up window select **only for me (user)** and click Install
+6. Lastly click Finish
 
 
 ### Installing S4A 

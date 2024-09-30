@@ -57,6 +57,8 @@ Modify the "wait" time
 
 Now let us connect the two servo motors to the Arduino.
 
+***NOTE: Please do not try to turn the motor with your hand, you can break it!***
+
 We have our Arm motor and Gripper motor.
 
 Remember the wiring:
@@ -91,7 +93,7 @@ Using the male to male jumper wires:
 - Connect a GND (ground) pin from your Arduino to the brown connector on your Gripper motor
 - Connect pin 4 from your Arduino to the orange connector on your Gripper motor
 
-![image](https://github.com/user-attachments/assets/d8225372-5a0c-4135-bc23-c2a3e141e559)
+![image](https://github.com/user-attachments/assets/add45442-ca96-4fce-871a-61879321cab1)
 
 Next let us do the Arm motor. 
 
@@ -103,7 +105,7 @@ Using the male to male wires:
 
 So you should end up with the following:
 
-![image](https://github.com/user-attachments/assets/1b4f1f19-2800-451a-a600-56ece2b5b0c0)
+![image](https://github.com/user-attachments/assets/dcc38f4c-c7f3-44e2-9d7a-1ff831b375bd)
 
 Why do you think we chose 5V for the Arm motor?
 
@@ -131,6 +133,19 @@ Next, create a new project but now use this motor block:
 Change the values to see the angle of the servo change.
 
 Make sure you have tested both of your motors.
+
+### Control with Arrow Keys
+
+Now try to control both motors with arrow keys.
+
+Build the following Scratch code:
+
+![image](https://github.com/user-attachments/assets/9ccbab84-44ba-4eef-b4a2-8438f02e7b43)
+
+The "wait" control block is important stabilize the motor.
+
+We also use the "off" block to make sure the motor does not jitter which caused by the 3.3V we are using.
+
 
 # Next Lesson
 

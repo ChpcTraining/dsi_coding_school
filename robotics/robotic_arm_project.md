@@ -51,6 +51,18 @@ You have a smaller block of double sided tape square which you should use for th
 | ![Image 1](https://github.com/user-attachments/assets/34a6cb22-ca5f-4cf2-a36e-cc6b96197652) | ![Image 2](https://github.com/user-attachments/assets/ecc23266-e77d-44fe-a3a5-5014c5760f34) |
 |:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
 
+## Wiring
+
+As mentioned in the previous lesson
+
+Using the male to male jumper wires:
+
+- Connect the 3.3V pin from your Arduino to the red connector on your Gripper motor
+- Connect a GND (ground) pin from your Arduino to the brown connector on your Gripper motor
+- Connect pin 4 from your Arduino to the orange connector on your Gripper motor
+
+![image](https://github.com/user-attachments/assets/f93fd300-51a8-4152-8d2d-11c3ece5983d)
+
 
 # Build the Robotic Arm:
 
@@ -73,7 +85,13 @@ Using double sided tape:
 
 ![image](https://github.com/user-attachments/assets/8656d4ea-a63f-4650-abd9-05044f227ef0)
 
-- Next connect the wires if not already connected:
+- Next connect the wires if not already connected.
+
+Using the male to male wires:
+
+- Connect the 5V pin from your Arduino to the red connector on your Arm motor
+- Connect a GND (ground) pin from your Arduino to the brown connector on your Arm motor
+- Connect pin 8 from your Arduino to the orange connector on your Arm motor
 
 ![image](https://github.com/user-attachments/assets/19fc3ce1-f29a-4254-b292-1e60d6477148)
 
@@ -89,9 +107,13 @@ Using double sided tape:
 
 Build a new project using the following Scratch code blocks:
 
-![image](https://github.com/user-attachments/assets/67bb151f-f780-4e89-9bf5-8c282be0681d)
+![image](https://github.com/user-attachments/assets/26ab693b-3bc3-4a03-adbc-54809cb2d0ce)
 
-Test out your Robotic Arm with the arrow keys in Scratch and try to lift up the fluff ball
+However, these angles that were chose may not work for you as each Robotic arm is unique!
+
+You need to use trial and error to figure out what are the best angles to do the lifting and grabbing!
+
+Your final goal is to try to lift up the fluff ball
 
 # Reflections
 
