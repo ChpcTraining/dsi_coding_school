@@ -61,8 +61,7 @@ Using the male to male jumper wires:
 - Connect a GND (ground) pin from your Arduino to the brown connector on your Gripper motor
 - Connect pin 4 from your Arduino to the orange connector on your Gripper motor
 
-![image](https://github.com/user-attachments/assets/736d6ac7-bf7d-42b3-abfa-6917c399f152)
-
+![image](https://github.com/user-attachments/assets/f93fd300-51a8-4152-8d2d-11c3ece5983d)
 
 
 # Build the Robotic Arm:
