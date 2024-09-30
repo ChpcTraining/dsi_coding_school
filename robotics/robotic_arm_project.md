@@ -53,11 +53,16 @@ You have a smaller block of double sided tape square which you should use for th
 
 ## Wiring
 
-As mention in the previous lesson, for the Gripper motor make sure connect the red pin is connected to the 3.3V power pin on the Arduino.
+As mentioned in the previous lesson
 
-And the control pin should go to pin 4 on your Arduino.
+Using the male to male jumper wires:
+
+- Connect the 3.3V pin from your Arduino to the red connector on your Gripper motor
+- Connect a GND (ground) pin from your Arduino to the brown connector on your Gripper motor
+- Connect pin 4 from your Arduino to the orange connector on your Gripper motor
 
 ![image](https://github.com/user-attachments/assets/736d6ac7-bf7d-42b3-abfa-6917c399f152)
+
 
 
 # Build the Robotic Arm:
@@ -81,7 +86,13 @@ Using double sided tape:
 
 ![image](https://github.com/user-attachments/assets/8656d4ea-a63f-4650-abd9-05044f227ef0)
 
-- Next connect the wires if not already connected:
+- Next connect the wires if not already connected.
+
+Using the male to male wires:
+
+- Connect the 5V pin from your Arduino to the red connector on your Arm motor
+- Connect a GND (ground) pin from your Arduino to the brown connector on your Arm motor
+- Connect pin 8 from your Arduino to the orange connector on your Arm motor
 
 ![image](https://github.com/user-attachments/assets/19fc3ce1-f29a-4254-b292-1e60d6477148)
 
