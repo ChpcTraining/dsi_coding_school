@@ -51,6 +51,14 @@ You have a smaller block of double sided tape square which you should use for th
 | ![Image 1](https://github.com/user-attachments/assets/34a6cb22-ca5f-4cf2-a36e-cc6b96197652) | ![Image 2](https://github.com/user-attachments/assets/ecc23266-e77d-44fe-a3a5-5014c5760f34) |
 |:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
 
+## Wiring
+
+As mention in the previous lesson, for the Gripper motor make sure connect the red pin is connected to the 3.3V power pin on the Arduino.
+
+And the control pin should go to pin 4 on your Arduino.
+
+![image](https://github.com/user-attachments/assets/736d6ac7-bf7d-42b3-abfa-6917c399f152)
+
 
 # Build the Robotic Arm:
 
@@ -89,9 +97,13 @@ Using double sided tape:
 
 Build a new project using the following Scratch code blocks:
 
-![image](https://github.com/user-attachments/assets/67bb151f-f780-4e89-9bf5-8c282be0681d)
+![image](https://github.com/user-attachments/assets/26ab693b-3bc3-4a03-adbc-54809cb2d0ce)
 
-Test out your Robotic Arm with the arrow keys in Scratch and try to lift up the fluff ball
+However, these angles that were chose may not work for you as each Robotic arm is unique!
+
+You need to use trial and error to figure out what are the best angles to do the lifting and grabbing!
+
+Your final goal is to try to lift up the fluff ball
 
 # Reflections
 
