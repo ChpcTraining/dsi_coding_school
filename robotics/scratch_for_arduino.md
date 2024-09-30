@@ -134,6 +134,19 @@ Change the values to see the angle of the servo change.
 
 Make sure you have tested both of your motors.
 
+### Control with Arrow Keys
+
+Now try to control both motors with arrow keys.
+
+Build the following Scratch code:
+
+![image](https://github.com/user-attachments/assets/9d91c3b7-e168-4094-a7b7-65f4f188c0e5)
+
+The "wait" control block is important stabilize the motor.
+
+We also use the "off" block to make sure the motor does not jitter which caused by the 3.3V we are using.
+
+
 # Next Lesson
 
 If you have reached this point well done. Now we will put everything together that we have learnt and build our Robotic Arm!
