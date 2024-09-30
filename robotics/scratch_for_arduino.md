@@ -140,7 +140,7 @@ Now try to control both motors with arrow keys.
 
 Build the following Scratch code:
 
-![image](https://github.com/user-attachments/assets/9d91c3b7-e168-4094-a7b7-65f4f188c0e5)
+![image](https://github.com/user-attachments/assets/9ccbab84-44ba-4eef-b4a2-8438f02e7b43)
 
 The "wait" control block is important stabilize the motor.
 
