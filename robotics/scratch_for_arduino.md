@@ -93,7 +93,7 @@ Using the male to male jumper wires:
 - Connect a GND (ground) pin from your Arduino to the brown connector on your Gripper motor
 - Connect pin 4 from your Arduino to the orange connector on your Gripper motor
 
-![image](https://github.com/user-attachments/assets/d8225372-5a0c-4135-bc23-c2a3e141e559)
+![image](https://github.com/user-attachments/assets/add45442-ca96-4fce-871a-61879321cab1)
 
 Next let us do the Arm motor. 
 
@@ -105,7 +105,7 @@ Using the male to male wires:
 
 So you should end up with the following:
 
-![image](https://github.com/user-attachments/assets/1b4f1f19-2800-451a-a600-56ece2b5b0c0)
+![image](https://github.com/user-attachments/assets/dcc38f4c-c7f3-44e2-9d7a-1ff831b375bd)
 
 Why do you think we chose 5V for the Arm motor?
 
