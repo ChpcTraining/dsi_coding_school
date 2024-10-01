@@ -103,6 +103,11 @@ Using the male to male wires:
 
 ![image](https://github.com/user-attachments/assets/77c10d96-93b5-43d7-ad8b-c163fa73dd98)
 
+- Complete video of building the robotic arm:
+
+[![Video Preview](https://img.youtube.com/vi/aQG_7-uq-cE/0.jpg)](https://youtu.be/aQG_7-uq-cE)
+
+
 # Testing the Robotic Arm:
 
 Build a new project using the following Scratch code blocks:
