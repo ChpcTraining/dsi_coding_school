@@ -2,10 +2,11 @@
 ## Overview of computer hardware components
 The goal of this section is to identify the different computer hardware components and their functionality. They are also listed in the order that can be followed when disabling the computer parts.
 
-<span id="fig1" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
-    <img alt="test" src="./resources/computer_components.jpeg" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>Figure 1: Computer components.</i></span>
-</span>
+<div align="center">
+  <img src="./resources/computer_components.jpeg" alt="Description of the image" width="800"/>
+  <br><em>Figure 1: Computer Components. </em>
+</div>
+
 
 ## 1. Computer Components
 a. **Hardware** is any element of a computer that's physical. This includes things like:

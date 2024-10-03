@@ -117,12 +117,12 @@ You will be asked to select your location on the map, ensure you select the corr
 </div>
 
 
->` Ensure that you remember your password because if you are locked out we can not assist.`
+>`Ensure that you remember your password because if you are locked out we can not assist.`
 
 Now the instalation will take place, once it is complete the machine will prompt for a restart as shown on [Figure 14](#fig14). Click on **Restart Now**, when restarting you will be asked to remove the meduim, press Enter **In our case there is no meduim to remove just press Enter**. You will logged in to the machine with your Ubuntu operating system.
 
 <div align="center">
-  <img src="./resources/VMInstallationComplete.PNG" alt="Description of the image" width="400"/>
+  <img src="./resources/VMInstallationComplete.PNG" alt="Description of the image" width="800"/>
   <br><em>Figure 14: Installation Complete </em>
 </div>
 
