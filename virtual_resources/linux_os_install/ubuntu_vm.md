@@ -7,7 +7,7 @@ The goal of this tutorial is to provide a step-by-step guide on how to install t
 On the desktop, there is an application called **Oracle VM VirtualBox** launch the application. When you have launched the application, you should see a welcome screen as shown in [Figure 1](#fig1). 
 
 <div align="center">
-  <img src="./resources/VMLaunch.png" alt="Description of the image" width="400"/>
+  <img src="./resources/VMLaunch.PNG" alt="Description of the image" width="400"/>
   <br><em>Figure 1: Caption describing the image</em>
 </div>
 
