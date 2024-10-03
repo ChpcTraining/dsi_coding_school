@@ -52,33 +52,36 @@ The storage on physical hard disk should be set to **Dynamically allocated** as 
 
 Now for the file location and size, we will leave the file location as the default that is seen on screen **This will differ from computer to computer**. The size should be set as **30.00 GB**, these settings are shown as [Figure 7](#fig7), then press **Create**.
 
-<div id="fig7" class="img_container" style="text-align: center; margin-bottom: 20px;">
-    <img alt="test" src="./resources/VMFileSize.PNG" style="display: block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; margin-top: 5px;"><i>Figure 7: File Location and Size </i></span>
+<div align="center">
+  <img src="./resources/VMFileSize.PNG" alt="Description of the image" width="800"/>
+  <br><em>Figure 7: File Location and Size</em>
 </div>
+
 
 Then the next step will be to get the machine started, on your screen on the left panel you should see the vm that you have created. To start the machine simply press **Start** on the screen, make sure that your machine is selected. This is good practise for when there is more than one vm that is created in your environment.
 
 When the machine is starting up, you will asked to select the start-up disk for the purpose of this workshop your Ubuntu Image will be stored on your C Drive. So you will need to select the **folder with the green arrow**, then on the next screen press the **Add** button. This will allow you to navigate to a location on your local computer, in the left panel you should see a drive named **Windows-SDD**, when you enter that file you should see the Ubuntu image as shown in [Figure 8](#fig8), press **Open**. This will add the image on the optical disk selector screen, then you can press **Choose** when that image is selected. Then now we can press **Start**.
 
-<div id="fig8" class="img_container" style="text-align: center; margin-bottom: 20px;">
-    <img alt="test" src="./resources/VMOpticalDiskLocation.PNG" style="display: block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; margin-top: 5px;"><i>Figure 8: Virtual Optical Disk File </i></span>
+<div align="center">
+  <img src="./resources/VMOpticalDiskLocation.PNG" alt="Description of the image" width="800"/>
+  <br><em>Figure 8: Virtual Optical Disk File</em>
 </div>
+
 
 Once the machine is started, you will see the menu shown in [Figure 9](#fig9). From there select the **Try or Install Ubuntu** option by pressing the **Enter Key**
 
-<div id="fig9" class="img_container" style="text-align: center; margin-bottom: 20px;">
-    <img alt="test" src="./resources/VMStart.PNG" style="display: block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; margin-top: 5px;"><i>Figure 9: Ubuntu Installation Prompt </i></span>
+<div align="center">
+  <img src="./resources/VMStart.PNG" alt="Description of the image" width="800"/>
+  <br><em>Figure 9: Ubuntu Installation Prompt</em>
 </div>
 
 Once this is done correctly you should see a screen that looks like the one shown in [Figure 10](#fig10), click on the **Install Ubuntu** option.
 
-<div id="fig10" class="img_container" style="text-align: center; margin-bottom: 20px;">
-    <img alt="test" src="./resources/welcomescreen.PNG" style="display: block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; margin-top: 5px;"><i>Figure 10: Ubuntu Installation Welcome Screen </i></span>
+<div align="center">
+  <img src="./resources/welcomescreen.PNG" alt="Description of the image" width="800"/>
+  <br><em>Figure 10: Ubuntu Installation Prompt </em>
 </div>
+
 
 This is will prompt you to a screen where you will select your keyboard layout, for our purposes we will select **English (South Africa)** then press **Continue**.
 
@@ -88,36 +91,39 @@ At this stage of the installaton you will given two options namely: normal insta
 
 For this tutorial we will select the **Normal installation** option. A screen should appear as shown in [Figure 11](#fig11), there is a sections called **Other options** only one of those options shown will checked as shown in [Figure 11](#fig11).
 
-<div id="fig11" class="img_container" style="text-align: center; margin-bottom: 20px;">
-    <img alt="test" src="./resources/VMUPdates.PNG" style="display: block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; margin-top: 5px;"><i>Figure 11: Installation Type Screen </i></span>
+<div align="center">
+  <img src="./resources/VMUpdates.PNG" alt="Description of the image" width="800"/>
+  <br><em>Figure 11: Installation Type Screen</em>
 </div>
+
 
 > For the **Other options** section, ensure that the computer is connected to the internet.
 
 The next step is dealing with disk management, since there is no other operating system that has been installed prior to this and we want Ubuntu to be our only operating system, we will select the first option which is **Erase disk and install Ubuntu** as shown in [Figure 12](#fig12). There is no need for any advanced features so leave it as none selected, then click the **Install Now** option. 
 
-<div id="fig12" class="img_container" style="text-align: center; margin-bottom: 20px;">
-    <img alt="test" src="./resources/VMInstallationType.PNG" style="display: block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; margin-top: 5px;"><i>Figure 12: Installation Disk Management </i></span>
+<div align="center">
+  <img src="./resources/VMInstallationType.PNG" alt="Description of the image" width="800"/>
+  <br><em>Figure 12: Installation Disk Management </em>
 </div>
+
 
 > A pop-up will appear asking for confirmation of the changes that will be written to the disk, select **Continue**.
 
 You will be asked to select your location on the map, ensure you select the correct location then press **Continue**.  The next step will deal with login details, fill in the details that are required for this screen. Make sure that you select the **Log in automatically option**, as shown in [Figure 13](#fig13)
 
-<div id="fig13" class="img_container" style="text-align: center; margin-bottom: 20px;">
-    <img alt="test" src="./resources/VMWhoAreYou.PNG" style="display: block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; margin-top: 5px;"><i>Figure 13: Who Are You Page </i></span>
+<div align="center">
+  <img src="./resources/VMWhoAreYou.PNG" alt="Description of the image" width="800"/>
+  <br><em>Figure 13: Who Are You Page</em>
 </div>
+
 
 > Ensure that you remember your password because if you are locked out we can not assist.
 
 Now the instalation will take place, once it is complete the machine will prompt for a restart as shown on [Figure 14](#fig14). Click on **Restart Now**, when restarting you will be asked to remove the meduim, press Enter **In our case there is no meduim to remove just press Enter**. You will logged in to the machine with your Ubuntu operating system.
 
-<div id="fig14" class="img_container" style="text-align: center; margin-bottom: 20px;">
-    <img alt="test" src="./resources/VMInstallationComplete.PNG" style="display: block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; margin-top: 5px;"><i>Figure 14: Installation Complete </i></span>
+<div align="center">
+  <img src="./resources/VMInstallationComplete.PNG" alt="Description of the image" width="400"/>
+  <br><em>Figure 14: Installation Complete </em>
 </div>
 
 **Well done your Ubuntu installation is now complete.**
