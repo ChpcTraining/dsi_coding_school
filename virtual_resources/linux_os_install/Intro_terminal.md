@@ -1,6 +1,6 @@
 # Introduction to the Terminal
 
-Now that you have successfuylly installed the Ubuntu Operating Systems, lets dive into one important feature in the Linux environment. The **Terminal** is a text-based interface used to interact with the computer's operating system. In Ubuntu 22.04, the terminal allows you to type commands to perform various tasks such as navigating the file system, managing files, running scripts, and checking system information.
+Now that you have successfuylly installed the Ubuntu Operating Systems, lets dive into one important feature in the Linux environment. The `Terminal` is a text-based interface used to interact with the computer's operating system. In Ubuntu 22.04, the terminal allows you to type commands to perform various tasks such as navigating the file system, managing files, running scripts, and checking system information.
 
 It's a powerful tool, especially for developers and system administrators, but even casual users can benefit from knowing some basic commands.
 
@@ -11,6 +11,11 @@ It's a powerful tool, especially for developers and system administrators, but e
 To open the Terminal in Ubuntu 22.04:
 1. Press `Ctrl + Alt + T` on your keyboard.
 2. Alternatively, search for "Terminal" in the applications menu.
+
+<div align="center">
+  <img src="./resources/terminal.png" alt="Description of the image" width="800"/>
+</div>
+
 
 ---
 
@@ -86,5 +91,5 @@ The terminal is an incredibly versatile tool with a wide variety of commands tha
 
 Remember, you can always explore new commands and their usage with the `man` command, and the more you practice, the more comfortable you’ll become with the terminal.
 
-Happy exploring, and enjoy using the power of the command line!
+**Happy exploring, and enjoy using the power of the command line!**
 
