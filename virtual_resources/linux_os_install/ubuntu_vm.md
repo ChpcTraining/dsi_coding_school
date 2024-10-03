@@ -6,10 +6,11 @@ The goal of this tutorial is to provide a step-by-step guide on how to install t
 ## Using Oracle VM VirtualBox
 On the desktop, there is an application called **Oracle VM VirtualBox** launch the application. When you have launched the application, you should see a welcome screen as shown in [Figure 1](#fig1). 
 
-<div id="fig1" class="img_container" style="text-align: center; margin-bottom: 20px;">
-    <img alt="test" src="./resources/VMLaunch.PNG" style="display: block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; margin-top: 5px;"><i>Figure 1: VirtualBox Welcome Screen.</i></span>
+<div align="center">
+  <img src="./resources/VMLaunch.png" alt="Description of the image" width="400"/>
+  <br><em>Figure 1: Caption describing the image</em>
 </div>
+
 
 On the welcome screen there a button written **New** , click on that button and a window as shown in [Figure 2](#fig2) should appear. This is where you add the name to your virtual machine, which VirtualBox uses to identify this machine. For the purpose of this tutorial the virtual machine will be named **Ubuntu22.04**, it is good practice to name a VM by the version of the operating system that will be used. This will allow for the automatic detection of the type and version as seen in [Figure 2](#fig2), the machine folder is the location on your local machine where the vm will be created, then press **Next**.
 
