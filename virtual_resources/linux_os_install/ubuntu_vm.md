@@ -89,15 +89,15 @@ At this stage of the installaton you will given two options namely: normal insta
 
 ## Installation Setup
 
-For this tutorial we will select the **Normal installation** option. A screen should appear as shown in [Figure 11](#fig11), there is a sections called **Other options** only one of those options shown will checked as shown in [Figure 11](#fig11).
+For this tutorial we will select the **Normal installation** option. A screen should appear as shown in [Figure 11](#fig11).
+
+> There is a section called **Other options** `NONE` of those options should be ticked
 
 <div align="center">
   <img src="./resources/VMUpdates.PNG" alt="Description of the image" width="800"/>
   <br><em>Figure 11: Installation Type Screen</em>
 </div>
 
-
-> For the **Other options** section, ensure that the computer is connected to the internet.
 
 The next step is dealing with disk management, since there is no other operating system that has been installed prior to this and we want Ubuntu to be our only operating system, we will select the first option which is **Erase disk and install Ubuntu** as shown in [Figure 12](#fig12). There is no need for any advanced features so leave it as none selected, then click the **Install Now** option. 
 
@@ -117,7 +117,7 @@ You will be asked to select your location on the map, ensure you select the corr
 </div>
 
 
-> Ensure that you remember your password because if you are locked out we can not assist.
+>` Ensure that you remember your password because if you are locked out we can not assist.`
 
 Now the instalation will take place, once it is complete the machine will prompt for a restart as shown on [Figure 14](#fig14). Click on **Restart Now**, when restarting you will be asked to remove the meduim, press Enter **In our case there is no meduim to remove just press Enter**. You will logged in to the machine with your Ubuntu operating system.
 
