@@ -20,22 +20,22 @@ b. **Software** is anything that tells hardware what to do and how to do it, inc
 ## 2. Computer Hardware
 * There are two types of computer hardware: external and internal. External hardware devices include monitors, keyboards, printers, and scanners, whereas internal hardware devices include motherboards, hard drives, and RAM.
 
-<span id="fig2" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
-    <img alt="test" src="./resources/types_computerhardware.jpg" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>
-    Figure 2: Types of Computer Hardware.</i></span>
-</span>
+<div align="center">
+  <img src="./resources/types_computerhardware.jpg" alt="Description of the image" width="800"/>
+  <br><em>Figure 2: Types of computer hardware. </em>
+</div>
+
 
 
 a.) **System fan**:
 
 It is used for active cooling by blowing air into the computer components and warm air out.
 
-<span id="fig3" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
-    <img alt="test" src="./resources/system_fan.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>
-    Figure 3: System Fan.</i></span>
-</span>
+<div align="center">
+  <img src="./resources/system_fan.png” alt="Description of the image" width="800"/>
+  <br><em>Figure 3: System fan. </em>
+</div>
+
 
 * You will start by removing the system fan first. It is located at the back side of the computer, the side with all the component plugins.
 
@@ -46,11 +46,11 @@ b.) **CPU fan**:
 
 The one blowing air onto the CPU heat sink.
 
-<span id="fig4" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
-    <img alt="test" src="./resources/cpu_fan.jpg" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>
-    Figure 4: CPU Fan.</i></span>
-</span>
+<div align="center">
+  <img src="./resources/cpu_fan.jpg” alt="Description of the image" width="800"/>
+  <br><em>Figure 4: cpu fan. </em>
+</div>
+
 
 * Now that the system fan is out, we can remove the CPU fan.
 * The CPU fan is located right on top of the CPU heat sink, which is a large piece of metal with fins on the top. The CPU fan plugs into the motherboard in an awkward place, that is hard to access. But just follow the wires and you should easily find it. It is labeled "CPU FAN1". To remove the fan from the heat sink, remove the four screws securing it in place.
@@ -60,10 +60,11 @@ c.) **Power Supply**
 
 It converts the alternating current (AC) from a wall socket of mains electricity to a low-voltage direct current (DC) to operate the motherboard, processor and peripheral devices.
 
-<span id="fig5" class="img_container center" style="font-size:8px;margin-bottom:20px; display: block;">
-    <img alt="test" src="./resources/power_supply.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; text-align: center;margin-top:5px;"><i>Figure 5: Power Supply.</i></span>
-</span>
+<div align="center">
+  <img src="./resources/power_supply.png” alt="Description of the image" width="800"/>
+  <br><em>Figure 5: Power Supply. </em>
+</div>
+
 
 * The power supply is a large metal box located at the upper-back part of the computer. They sometimes come with an on/off switch that is acessable from the back of the computer. The main power cord also plugs into the back of the power supply.
 
