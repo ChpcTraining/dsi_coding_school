@@ -8,44 +8,47 @@ On the desktop, there is an application called **Oracle VM VirtualBox** launch t
 
 <div align="center">
   <img src="./resources/VMLaunch.PNG" alt="Description of the image" width="800"/>
-  <br><em>Figure 1: Caption describing the image</em>
+  <br><em>Figure 1: Virtual Box Welcome Screen</em>
 </div>
 
 
 On the welcome screen there a button written **New** , click on that button and a window as shown in [Figure 2](#fig2) should appear. This is where you add the name to your virtual machine, which VirtualBox uses to identify this machine. For the purpose of this tutorial the virtual machine will be named **Ubuntu22.04**, it is good practice to name a VM by the version of the operating system that will be used. This will allow for the automatic detection of the type and version as seen in [Figure 2](#fig2), the machine folder is the location on your local machine where the vm will be created, then press **Next**.
 
-<div id="fig2" class="img_container" style="text-align: center; margin-bottom: 20px;">
-    <img alt="test" src="./resources/VMCreation.PNG" style="display: block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; margin-top: 5px;"><i>Figure 2: Creation of Virtual Machine.</i></span>
+<div align="center">
+  <img src="./resources/VMCreation.PNG" alt="Description of the image" width="800"/>
+  <br><em>Figure 2: Creation of Virtual Machine</em>
 </div>
+
 
 The next step is to specific the amount of Random Access Memeory (RAM) for the VM. For this workshop we recommend selecting **1800 MB** as shown in [Figure 3](#fig3), when done press **Next**.
 
-<div id="fig3" class="img_container" style="text-align: center; margin-bottom: 20px;">
-    <img alt="test" src="./resources/VMMemory.PNG" style="display: block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; margin-top: 5px;"><i>Figure 3: RAM Allocation.</i></span>
+<div align="center">
+  <img src="./resources/VMMemory.PNG" alt="Description of the image" width="800"/>
+  <br><em>Figure 3: RAM Allocation</em>
 </div>
 
 Now is the creation of the hard disk, for this select the second option as shown in [Figure 4](#fig4), then press **Create**.
 
-<div id="fig4" class="img_container" style="text-align: center; margin-bottom: 20px;">
-    <img alt="test" src="./resources/VMHarddrive.PNG" style="display: block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; margin-top: 5px;"><i>Figure 4: Virtual Hard Disk Creation</i></span>
+<div align="center">
+  <img src="./resources/VMHarddrive.PNG" alt="Description of the image" width="800"/>
+  <br><em>Figure 4: Virtual Hard Disk Creation </em>
 </div>
+
 
 For the hard disk file type, keep the default selection of **VDI** as shown in [Figure 5](#fig5), then press **Next**.
 
-<div id="fig5" class="img_container" style="text-align: center; margin-bottom: 20px;">
-    <img alt="test" src="./resources/VMHarddriveFileType.PNG" style="display: block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; margin-top: 5px;"><i>Figure 5: Hard Disk File Type </i></span>
+<div align="center">
+  <img src="./resources/VMHarddriveFileType.PNG" alt="Description of the image" width="800"/>
+  <br><em>Figure 5: Hard Disk File Type</em>
 </div>
 
 The storage on physical hard disk should be set to **Dynamically allocated** as seen in [Figure 6](#fig6), then press **Next**.
 
-<div id="fig6" class="img_container" style="text-align: center; margin-bottom: 20px;">
-    <img alt="test" src="./resources/VMDynamicAllocated.PNG" style="display: block; margin-left: auto; margin-right: auto;" title="caption" />
-    <span class="img_caption" style="display: block; margin-top: 5px;"><i>Figure 6: Storage on Physical Hard Disk </i></span>
+<div align="center">
+  <img src="./resources/VMDynamicAllocated.PNG" alt="Description of the image" width="800"/>
+  <br><em>Figure 6: Storage on Physical Hard Disk</em>
 </div>
+
 
 Now for the file location and size, we will leave the file location as the default that is seen on screen **This will differ from computer to computer**. The size should be set as **30.00 GB**, these settings are shown as [Figure 7](#fig7), then press **Create**.
 
