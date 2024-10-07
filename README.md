@@ -1,5 +1,12 @@
 # Department of Science and Innovation (DSI) - Centre for High Performance Computing (CHPC) Computer Hardware and Programming Workshop
-Insert a brief desciption of what the workshop is about
+The Centre for High Performance Computing (CHPC), funded by the Department of Science and Innovation (DSI) of the South African government, has launched a three-year flagship project aimed at raising awareness of coding and robotics within the Department of Basic Education and the general public. The project began in 2022 and is set to run until the end of March 2025. It involves training coding and robotics subject advisors and officials from all districts across South Africa's nine provinces.
+The five-day training program covers key areas such as:
+- Coding using Scratch software.
+- An introduction to robotics and programming robots with Scratch.
+- Virtual Machines and Cloud computing.
+- Computer hardware disassembly and assembly.
+
+With the National Department of Basic Education in the process of  implementing a coding and robotics curriculum in public schools, this initiative is expected to play a critical role in shaping and refining the basic school coding curriculum in South Africa.
 
 ### Scratch
 **Scratch**
