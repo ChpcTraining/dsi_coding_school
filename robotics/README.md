@@ -174,7 +174,7 @@ Robotics in the Classroom:
 - Robotic kits (Arduino, Raspberry pi, etc)
 - Use virtual platforms (e.g., Scratch)
 
-## DIY Robotic Hand Using Household Items
+## DIY Robotic Hand Using Household Items (Unplugged Robotics)
 
 Objective: Create a simple robotic hand using everyday materials to teach the principles of mechanics and motion.
 
