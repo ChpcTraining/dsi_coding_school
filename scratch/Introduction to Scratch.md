@@ -23,7 +23,7 @@ To open Scratch, type "scratch" in the search bar and double-click on the Scratc
 There are four main elements of Scratch: the stage, the sprites, the script and the programming palette. These elements can be compared to a play.
 ![scratch_github_resize](https://github.com/user-attachments/assets/6d22179f-533e-494a-a7f4-089ac36f2942)
 
-1) *Stage* – similar to the stage in a play. This is where everything will take place. The stage can be different backgrounds (see page 7), just like in a play.
+1) *Stage* – similar to the stage in a play. This is where everything will take place. The stage can be different backgrounds, just like in a play.
 2) *Sprites* – are the actors or main characters of the project. Sprites are programmed to do something in Scratch.
 3) *Script* – tells the actors what to say or do. Each sprite is programmed with a script.
 4) *Programming palette* – elements used to program the sprite to do or say something. Sprites must be programmed to carry out every function you want them to perform.
