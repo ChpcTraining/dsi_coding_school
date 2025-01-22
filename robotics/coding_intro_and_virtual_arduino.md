@@ -74,7 +74,27 @@ https://wokwi.com/projects/new/arduino-uno
 
 ![image](https://github.com/user-attachments/assets/4dcbbeab-40f1-4523-b1c2-299b509b437d)
 
+# Arduino Buzzer Example
 
+Go to this link to see a buzzer project with an Arduino:
+
+[https://wokwi.com/projects/334566563776561746](https://wokwi.com/projects/334566563776561746)
+
+![image](https://github.com/user-attachments/assets/6d12e336-f75e-46b4-8a66-0c97a79a8903)
+
+# Arduino Push Button Example
+
+# Arduino Many Push Buttons
+
+[https://wokwi.com/projects/377569194875794433](https://wokwi.com/projects/377569194875794433)
+
+![image](https://github.com/user-attachments/assets/cd83d211-510e-4a1a-98d1-0f20c8d0194b)
+
+# Arduino Piano
+
+[https://wokwi.com/projects/291958456169005577](https://wokwi.com/projects/291958456169005577)
+
+![image](https://github.com/user-attachments/assets/f1289374-ceac-4735-8680-21c8c90fe20d)
 
 
 
