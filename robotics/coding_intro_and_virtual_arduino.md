@@ -84,6 +84,9 @@ Go to this link to see a buzzer project with an Arduino:
 
 # Arduino Push Button Example
 
+![image](https://github.com/user-attachments/assets/9fe5f2bf-8501-4dd9-8c74-09c78da8669d)
+
+
 # Arduino Many Push Buttons
 
 [https://wokwi.com/projects/377569194875794433](https://wokwi.com/projects/377569194875794433)
