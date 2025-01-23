@@ -60,6 +60,18 @@ Then the `void loop() {` section happens forever, just like the `forever` contro
 
 Take note of the how the instructions are ordered, the syntax, brackets etc. This all forms part of programming.
 
+# Online Scratch with Arduino Simulation
+
+[https://en.vittascience.com/code](https://en.vittascience.com/code)
+
+![image](https://github.com/user-attachments/assets/e6a9d716-588d-4511-8ec7-b6209d9c50ab)
+
+[https://en.vittascience.com/arduino/](https://en.vittascience.com/arduino/)
+
+![image](https://github.com/user-attachments/assets/62db4ca4-865b-435a-97a0-5e68cdf4e603)
+
+![image](https://github.com/user-attachments/assets/13f6da4f-0092-4b25-95c6-555bac7337f8)
+
 # Online Arduino Simulation
 
 https://wokwi.com/projects/new/arduino-uno
