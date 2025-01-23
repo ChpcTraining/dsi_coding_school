@@ -2,15 +2,37 @@
 
 ![image](https://github.com/user-attachments/assets/df7f1d4b-0ae1-487c-9bf8-badbe9acfc83)
 
-| **Concept**               | **Scratch Equivalent**             | **Arduino Code**                                                                                                     | **Explanation**                                                                 |
-|---------------------------|-------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| **Setup**                 | "When green flag clicked" block     | ```void setup() { pinMode(13, OUTPUT);}```                                                       | Code here runs once at the start, setting pin 13 as an output.                 |
-| **Loop**                  | "Forever" block                    | ```c++<br>void loop() {<br> // Add reusable blocks here<br>}<br>```                                                 | Code here runs continuously, just like the "forever" block in Scratch.         |
-| **Turn LED On**           | "Turn LED on" custom block          | ```c++<br>digitalWrite(13, HIGH);<br>```                                                                            | The `digitalWrite()` function sets the pin to HIGH (LED ON), similar to a block you reuse. |
-| **Wait**                  | "Wait 1 second" block               | ```c++<br>delay(1000);<br>```                                                                                       | Pauses the program for a specified duration in milliseconds (1000 ms = 1 sec). |
-| **Turn LED Off**          | "Turn LED off" custom block         | ```c++<br>digitalWrite(13, LOW);<br>```                                                                             | The `digitalWrite()` function sets the pin to LOW (LED OFF).                  |
-| **Reusable Code Block**   | Combine multiple blocks into a script | ```c++<br>void loop() {<br> digitalWrite(13, HIGH);<br> delay(1000);<br> digitalWrite(13, LOW);<br> delay(1000);<br>}<br>``` | Combines all "blocks" into a reusable loop for continuous LED blinking.        |
 
+| **Concept**             | **Scratch Equivalent**         | **Arduino Code**                        | **Explanation**                                                             |
+|-------------------------|---------------------------------|------------------------------------------|-----------------------------------------------------------------------------|
+| **Setup**               | "When green flag clicked" block | `void setup()`                           | Code that runs once at the start.                                           |
+|                         |                                 | `pinMode(13, OUTPUT);`                   | Sets pin 13 as an output.                                                   |
+| **Loop**                | "Forever" block                | `void loop()`                            | Code that runs continuously.                                                |
+| **Turn LED On**         | "Digital 13 on" block      | `digitalWrite(13, HIGH);`                | Turns the LED on by setting pin 13 to HIGH.                                 |
+| **Wait**                | "Wait 1 second" block           | `delay(1000);`                           | Pauses for 1 second (1000 milliseconds).                                    |
+| **Turn LED Off**        | "Digital 13 off" block     | `digitalWrite(13, LOW);`                 | Turns the LED off by setting pin 13 to LOW.                                 |
+
+
+```cpp
+
+void setup() {
+    // Set pin 13 as an output
+    pinMode(13, OUTPUT);
+}
+
+void loop() {
+    // Turn the LED on
+    digitalWrite(13, HIGH);
+    // Wait for 1 second
+    delay(1000);
+    // Turn the LED off
+    digitalWrite(13, LOW);
+    // Wait for 1 second
+    delay(1000);
+}
+```
+
+> Take note of the curly brackets `{ }` used with `void setup()` and `void loop()`, and the semi-colon `;` at the end of each line. They are necessary part of coding an Arduino.
 
 # Introduction
 
