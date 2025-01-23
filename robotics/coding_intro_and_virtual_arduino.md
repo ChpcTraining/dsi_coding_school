@@ -2,6 +2,16 @@
 
 ![image](https://github.com/user-attachments/assets/df7f1d4b-0ae1-487c-9bf8-badbe9acfc83)
 
+| **Concept**               | **Scratch Equivalent**             | **Arduino Code**                                                                                                     | **Explanation**                                                                 |
+|---------------------------|-------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **Setup**                 | "When green flag clicked" block     | ```void setup() { pinMode(13, OUTPUT);}```                                                       | Code here runs once at the start, setting pin 13 as an output.                 |
+| **Loop**                  | "Forever" block                    | ```c++<br>void loop() {<br> // Add reusable blocks here<br>}<br>```                                                 | Code here runs continuously, just like the "forever" block in Scratch.         |
+| **Turn LED On**           | "Turn LED on" custom block          | ```c++<br>digitalWrite(13, HIGH);<br>```                                                                            | The `digitalWrite()` function sets the pin to HIGH (LED ON), similar to a block you reuse. |
+| **Wait**                  | "Wait 1 second" block               | ```c++<br>delay(1000);<br>```                                                                                       | Pauses the program for a specified duration in milliseconds (1000 ms = 1 sec). |
+| **Turn LED Off**          | "Turn LED off" custom block         | ```c++<br>digitalWrite(13, LOW);<br>```                                                                             | The `digitalWrite()` function sets the pin to LOW (LED OFF).                  |
+| **Reusable Code Block**   | Combine multiple blocks into a script | ```c++<br>void loop() {<br> digitalWrite(13, HIGH);<br> delay(1000);<br> digitalWrite(13, LOW);<br> delay(1000);<br>}<br>``` | Combines all "blocks" into a reusable loop for continuous LED blinking.        |
+
+
 # Introduction
 
 Scratch is a powerful introduction to coding concepts, especially for young learners. It's a visual programming language designed to help students grasp the fundamentals of computational thinking, like loops, conditionals, and variables, without getting bogged down by the complexity of syntax. The blocks in Scratch represent code that students can drag, drop, and arrange to create interactive stories, animations, or games, making it very accessible and intuitive.
