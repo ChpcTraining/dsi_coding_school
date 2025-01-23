@@ -2,6 +2,38 @@
 
 ![image](https://github.com/user-attachments/assets/df7f1d4b-0ae1-487c-9bf8-badbe9acfc83)
 
+
+| **Concept**             | **Scratch Equivalent**         | **Arduino Code**                        | **Explanation**                                                             |
+|-------------------------|---------------------------------|------------------------------------------|-----------------------------------------------------------------------------|
+| **Setup**               | "When green flag clicked" block | `void setup()`                           | Code that runs once at the start.                                           |
+|                         |                                 | `pinMode(13, OUTPUT);`                   | Sets pin 13 as an output.                                                   |
+| **Loop**                | "Forever" block                | `void loop()`                            | Code that runs continuously.                                                |
+| **Turn LED On**         | "Digital 13 on" block      | `digitalWrite(13, HIGH);`                | Turns the LED on by setting pin 13 to HIGH.                                 |
+| **Wait**                | "Wait 1 second" block           | `delay(1000);`                           | Pauses for 1 second (1000 milliseconds).                                    |
+| **Turn LED Off**        | "Digital 13 off" block     | `digitalWrite(13, LOW);`                 | Turns the LED off by setting pin 13 to LOW.                                 |
+
+
+```cpp
+
+void setup() {
+    // Set pin 13 as an output
+    pinMode(13, OUTPUT);
+}
+
+void loop() {
+    // Turn the LED on
+    digitalWrite(13, HIGH);
+    // Wait for 1 second
+    delay(1000);
+    // Turn the LED off
+    digitalWrite(13, LOW);
+    // Wait for 1 second
+    delay(1000);
+}
+```
+
+> Take note of the curly brackets `{ }` used with `void setup()` and `void loop()`, and the semi-colon `;` at the end of each line. They are necessary part of coding an Arduino.
+
 # Introduction
 
 Scratch is a powerful introduction to coding concepts, especially for young learners. It's a visual programming language designed to help students grasp the fundamentals of computational thinking, like loops, conditionals, and variables, without getting bogged down by the complexity of syntax. The blocks in Scratch represent code that students can drag, drop, and arrange to create interactive stories, animations, or games, making it very accessible and intuitive.
