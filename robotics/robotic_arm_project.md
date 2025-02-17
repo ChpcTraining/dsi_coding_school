@@ -26,6 +26,10 @@ Core Components:
 To construct everything you will have the following:
 - double sided tape of various sizes
 
+See video guide on how to build:
+
+https://www.youtube.com/watch?v=aQG_7-uq-cE
+
 # Build the Robotic Gripper:
 
 On your motor you have a section where the wires are coming out. This is the front of your motor. Then there is a white plastic lever at the bottom as shown here:
