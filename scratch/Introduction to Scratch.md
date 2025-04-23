@@ -110,3 +110,6 @@ To choose a new background click on the thumbnail that says stage. A blue line w
 3) Importing a background ![scratch backdrop](https://github.com/user-attachments/assets/bcd583ab-8d59-46e2-b22d-d426df1b3af4)
 – Click on import to choose from backgrounds available in Scratch and then double-click on one of the thematic folders.
 ![scratch choose backdrop](https://github.com/user-attachments/assets/8d408910-194a-4501-a643-92218b4a5107)
+
+![frame](https://github.com/user-attachments/assets/c6262a52-9b11-41c9-b568-df2cb89dfa2e)
+
