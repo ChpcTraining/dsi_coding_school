@@ -51,7 +51,6 @@ Robotics Practical Session 5 - 8: Arduino Robotics Arm
                       
 | Time   | DAY 1  | DAY 2 | DAY 3 | DAY 4  | DAY 5  |
 | :---- | ----- | ----- | ----- | ----- | ----- |
-| **08:45 \- 9:00** |  |  |  Registration  |  |  |
 | **9:00 \-10:30** | Opening: Computer Hardware and Coding for DSI Workshop 10 | Scratch Coding Session 3   | Robotics Practical Session 1   | Robotics Practical Session 5  |  {codeclub} Session 1 |
 | **10:30 \- 11:00** | |  | **Tea Break** |  |  |
 | **11:00 \- 13:00** | Scratch Coding Session 1 | Scratch Coding Session 4 | Robotics Practical 2  | Robotics Practical Session 6  | {codeclub} Session 2 |
