@@ -8,6 +8,14 @@ https://microbit.org/projects/make-it-code-it/touch-heart/
 
 https://microbit.org/projects/make-it-code-it/distance-calculator/
 
+# Electronics Project
+
+## Worksheet
+
+- measure voltages
+- measure resistance
+
+
 # Bluetooth connect to phone 
 
 https://makecode.microbit.org/S24214-46621-35180-29097
