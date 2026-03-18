@@ -1,4 +1,4 @@
-<img width="661" height="834" alt="image" src="https://github.com/user-attachments/assets/9150cc95-894d-4f7a-bab3-1d94eacfe25e" /># Introduction to the BBC Micro:Bit
+# Introduction to the BBC Micro:Bit
 
 - Overview of the Micro:Bit and basics
 - Basic commands
@@ -32,6 +32,8 @@
 <img width="1726" height="267" alt="image" src="https://github.com/user-attachments/assets/6449bcb1-5f62-4bd6-8ec5-75c19d9d7f6f" />
 
 <img width="661" height="834" alt="image" src="https://github.com/user-attachments/assets/3d70f638-e571-404f-a0d8-0f72c9daf976" />
+
+
 
 
 
