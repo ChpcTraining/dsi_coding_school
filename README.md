@@ -24,17 +24,17 @@ The second part of the **robotics** training focuses on an introduction to the M
 
 Wednesday 
 
-1. [Robotics Intro](https://github.com/ChpcTraining/dsi_coding_school/tree/main/robotics)
-2. [Scratch for Arduino](https://github.com/ChpcTraining/dsi_coding_school/blob/main/robotics/scratch_for_arduino.md)
-3. [Robotic Arm Project](https://github.com/ChpcTraining/dsi_coding_school/blob/main/robotics/robotic_arm_project.md)
+1. [Robotics Folder](robotics/)
+2. [Scratch for Arduino](robotics/scratch_for_arduino)
+3. [Robotic Arm Project](robotics/robotic_arm_project)
 
 Thursday
 
-1. [Micro:bit Lesson 1 Intro](https://github.com/ChpcTraining/dsi_coding_school/blob/main/robotics/microbit/lesson1_intro.md)
+1. [Micro:bit Lesson 1 Intro](robotics/microbit/lesson1_intro)
 
 Friday
 
-1. [Micro:bit Lesson 2 Exercises](https://github.com/ChpcTraining/dsi_coding_school/blob/main/robotics/microbit/lesson2_exercises.md)
+1. [Micro:bit Lesson 2 Exercises](robotics/microbit/lesson2_exercises)
 
 
 # Timetable
