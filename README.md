@@ -20,6 +20,23 @@ As a practical project, we will Scratch for Arduino to build a simple robotic ar
 
 The second part of the **robotics** training focuses on an introduction to the Microbit.
 
+#### Lessons
+
+Wednesday 
+
+1. [Robotics Intro](https://github.com/ChpcTraining/dsi_coding_school/tree/main/robotics)
+2. [Scratch for Arduino](https://github.com/ChpcTraining/dsi_coding_school/blob/main/robotics/scratch_for_arduino.md)
+3. [Robotic Arm Project](https://github.com/ChpcTraining/dsi_coding_school/blob/main/robotics/robotic_arm_project.md)
+
+Thursday
+
+1. [Micro:bit Lesson 1 Intro](https://github.com/ChpcTraining/dsi_coding_school/blob/main/robotics/microbit/lesson1_intro.md)
+
+Friday
+
+1. [Micro:bit Lesson 2 Exercises](https://github.com/ChpcTraining/dsi_coding_school/blob/main/robotics/microbit/lesson2_exercises.md)
+
+
 # Timetable
 Everyday will compromise of the different session as briefly shown in this timetable.
                       
