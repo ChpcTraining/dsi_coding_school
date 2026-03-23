@@ -1,3 +1,5 @@
+---
+---
 # Introduction to Scratch 
 Scratch is a visual programming language that allows students to create their own interactive stories, games and animations. As students design Scratch projects, they learn to think creatively, reason systematically, and work collaboratively. Scratch was created by the Lifelong Kindergarten group at MIT Media lab and is available for free download at https://scratch.mit.edu/download  Once Scratch is downloaded to a computer, you do not need Internet access to create a project.
 
