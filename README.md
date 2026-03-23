@@ -1,4 +1,4 @@
-# Department of Science, Technology and Innovation (DSTI) - Centre for High Performance Computing (CHPC) Computer Hardware and Programming Workshop
+# DSTI-CHPC Coding & Robotics Workshop
 The Centre for High Performance Computing (CHPC), funded by theDepartment of Science, Technology and Innovation (DSTI) of the South African government, has launched a three-year flagship project aimed at raising awareness of coding and robotics within the Department of Basic Education and the general public. The project began in 2022 and ran until the end of March 2025. A new three-year project started in 2026. It involves training coding and robotics subject advisors and officials from all districts across South Africa's nine provinces.
 The five-day training program covers key areas such as:
 - Coding using Scratch software.
