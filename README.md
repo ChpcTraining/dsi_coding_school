@@ -24,17 +24,17 @@ The second part of the **robotics** training focuses on an introduction to the M
 
 Wednesday 
 
-1. [Robotics Folder](robotics/)
-2. [Scratch for Arduino](robotics/scratch_for_arduino)
-3. [Robotic Arm Project](robotics/robotic_arm_project)
+-  [Robotics Introduction](robotics/)
+-  [Scratch for Arduino](robotics/scratch_for_arduino)
+-  [Robotic Arm Project](robotics/robotic_arm_project)
 
 Thursday
 
-1. [Micro:bit Lesson 1 Intro](robotics/microbit/lesson1_intro)
+- [Micro:bit Lesson 1 Intro](robotics/microbit/lesson1_intro)
 
 Friday
 
-1. [Micro:bit Lesson 2 Exercises](robotics/microbit/lesson2_exercises)
+- [Micro:bit Lesson 2 Exercises](robotics/microbit/lesson2_exercises)
 
 
 # Timetable
