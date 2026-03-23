@@ -22,6 +22,12 @@ The second part of the **robotics** training focuses on an introduction to the M
 
 #### Lessons
 
+Monday
+
+- [Introduction to Scratch](scratch/Introduction%20to%20Scratch)
+
+Tuesday
+
 Wednesday 
 
 -  [Robotics Introduction](robotics/)
