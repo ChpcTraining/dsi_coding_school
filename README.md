@@ -20,7 +20,7 @@ As a practical project, we will Scratch for Arduino to build a simple robotic ar
 
 The second part of the **robotics** training focuses on an introduction to the Microbit.
 
-#### Lessons
+# Lessons
 
 Monday
 
