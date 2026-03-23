@@ -42,6 +42,9 @@ Friday
 
 - [Micro:bit Lesson 2 Exercises](robotics/microbit/lesson2_exercises)
 
+# Presentations
+
+- [CHPC Intro Workshop Slides](presentations/WJvR-CHPC-Intro-DSI-Coding-Workshop-Mar2026-Shared.pdf)
 
 # Timetable
 Everyday will compromise of the different session as briefly shown in this timetable.
