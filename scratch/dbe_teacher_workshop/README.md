@@ -11,5 +11,5 @@ These folders are the **Scratch** portion of the DSTI Coding and Robotics **trai
 
 **CHPC DSI Coding School:** [github.com/ChpcTraining/dsi_coding_school](https://github.com/ChpcTraining/dsi_coding_school)
 
-Version 1   : January 2026 by Mthetho Vuyo Sovara | msovara@csir.co.za |
+Version 1   : January 2026 by Mthetho Vuyo Sovara | msovara@csir.co.za | \
 Last update : March 2026 by Mthetho Vuyo Sovara
