@@ -1,6 +1,6 @@
 # DBE teacher workshop – Updated Scratch Curriculum (Days 1–2)
 
-These folders are the **Scratch** portion of the Department of Basic Education (DBE) coding and robotics **teacher training** curriculum (week-long workshop).
+These folders are the **Scratch** portion of the DSTI Coding and Robotics **train-the-trainer** curriculum (5 day long workshop).
 
 | Folder | Content |
 |--------|--------|
