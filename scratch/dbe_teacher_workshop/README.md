@@ -11,3 +11,4 @@ These folders are the **Scratch** portion of the Department of Basic Education (
 
 **CHPC DSI Coding School:** [github.com/ChpcTraining/dsi_coding_school](https://github.com/ChpcTraining/dsi_coding_school)
 
+Last update: 2026 by Mthetho Vuyo Sovara
