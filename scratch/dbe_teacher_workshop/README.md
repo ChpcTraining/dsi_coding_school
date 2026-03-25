@@ -1,5 +1,6 @@
-# DBE teacher workshop – Scratch (Days 1–2)
+# Updated Scratch Curriculum (Days 1–2)
 
+These folders are the **Scratch** portion of the DSTI Coding and Robotics **train-the-trainer** curriculum for the period 2026-2028. 
 These folders are the latest **Scratch** portion of the Department of Basic Education (DBE) coding and robotics **teacher training** curriculum (week-long workshop).
 
 | Folder | Content |
@@ -11,3 +12,5 @@ These folders are the latest **Scratch** portion of the Department of Basic Educ
 
 **CHPC DSI Coding School:** [github.com/ChpcTraining/dsi_coding_school](https://github.com/ChpcTraining/dsi_coding_school)
 
+Version 1   : January 2026 by Mthetho Vuyo Sovara | msovara@csir.co.za | \
+Last update : March 2026 by Mthetho Vuyo Sovara
