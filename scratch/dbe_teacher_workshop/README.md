@@ -1,6 +1,7 @@
 # Updated Scratch Curriculum (Days 1–2)
 
 These folders are the **Scratch** portion of the DSTI Coding and Robotics **train-the-trainer** curriculum for the period 2026-2028. 
+These folders are the latest **Scratch** portion of the Department of Basic Education (DBE) coding and robotics **teacher training** curriculum (week-long workshop).
 
 | Folder | Content |
 |--------|--------|
