@@ -1,4 +1,4 @@
-# DBE teacher workshop – Scratch (Days 1–2)
+# DBE teacher workshop – Updated Scratch Curriculum (Days 1–2)
 
 These folders are the **Scratch** portion of the Department of Basic Education (DBE) coding and robotics **teacher training** curriculum (week-long workshop).
 
@@ -11,4 +11,3 @@ These folders are the **Scratch** portion of the Department of Basic Education (
 
 **CHPC DSI Coding School:** [github.com/ChpcTraining/dsi_coding_school](https://github.com/ChpcTraining/dsi_coding_school)
 
-Copy this file to **`scratch/dbe_teacher_workshop/README.md`** when importing into `dsi_coding_school` (see `CHPC_DSI_CODING_SCHOOL_PR.md` in the DBE curriculum repo).
