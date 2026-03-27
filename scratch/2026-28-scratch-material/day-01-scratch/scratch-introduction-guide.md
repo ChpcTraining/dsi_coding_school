@@ -1,3 +1,5 @@
+---
+---
 # Scratch Introduction Guide
 ## A Teacher's Guide to Getting Started with Scratch
 
