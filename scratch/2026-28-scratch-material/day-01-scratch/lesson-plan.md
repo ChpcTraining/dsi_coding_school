@@ -1,3 +1,5 @@
+---
+---
 # Day 1: Introduction to Coding with Scratch
 ## Detailed Lesson Plan
 
