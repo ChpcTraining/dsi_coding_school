@@ -25,9 +25,14 @@ The second part of the **robotics** training focuses on an introduction to the M
 Monday
 
 - [CHPC Intro Workshop Slides](presentations/WJvR-CHPC-Intro-DSI-Coding-Workshop-Mar2026-Shared.pdf)
-- [Introduction to Scratch](scratch/Introduction%20to%20Scratch)
+- [Day 1 Lesson Plan](scratch/2026-28-scratch-material/day-01-scratch/lesson-plan)
+- [Scratch Introduction Guide](scratch/2026-28-scratch-material/day-01-scratch/scratch-introduction-guide)
+- [Introduction to Scratch(2025)](scratch/Introduction%20to%20Scratch)
 
 Tuesday
+
+- [Day 2 Lesson Plan](scratch/2026-28-scratch-material/day-02-scratch/lesson-plan)
+- [Scratch Advanced Guide](scratch/2026-28-scratch-material/day-02-scratch/scratch-advanced-guide)
 
 Wednesday 
 
