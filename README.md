@@ -24,27 +24,27 @@ The second part of the **robotics** training focuses on an introduction to the M
 
 Monday
 
-- [Introduction to Scratch](scratch/Introduction%20to%20Scratch)
+- [CHPC Intro Workshop Slides](presentations/WJvR-CHPC-Intro-DSI-Coding-Workshop-Mar2026-Shared.pdf)
+- [Day 1 Lesson Plan](scratch/2026-28-scratch-material/day-01-scratch/lesson-plan)
+- [Scratch Introduction Guide](scratch/2026-28-scratch-material/day-01-scratch/scratch-introduction-guide)
+- [Introduction to Scratch(2025)](scratch/Introduction%20to%20Scratch)
 
 Tuesday
 
+- [Day 2 Lesson Plan](scratch/2026-28-scratch-material/day-02-scratch/lesson-plan)
+- [Scratch Advanced Guide](scratch/2026-28-scratch-material/day-02-scratch/scratch-advanced-guide)
+
 Wednesday 
 
--  [Robotics Introduction](robotics/)
--  [Scratch for Arduino](robotics/scratch_for_arduino)
--  [Robotic Arm Project](robotics/robotic_arm_project)
+-  [Robotics Introduction 1](presentations/Robotics_Intro_2026_day1_v2.pdf)
+-  [Robotics Introduction 2](presentations/Robotics_Intro_2026_day2_v2.pdf)
+-  [Electronics Worksheet](presentations/Electronics_worksheet_1.pdf)
 
-Thursday
+Thursday/Friday
 
-- [Micro:bit Lesson 1 Intro](robotics/microbit/lesson1_intro)
-
-Friday
-
-- [Micro:bit Lesson 2 Exercises](robotics/microbit/lesson2_exercises)
-
-# Presentations
-
-- [CHPC Intro Workshop Slides](presentations/WJvR-CHPC-Intro-DSI-Coding-Workshop-Mar2026-Shared.pdf)
+- [Microbit Introduction](presentations/DSTI_CODING_AND_ROBOTICS_MICROBIT_v2.pdf)
+- [Microbit Worksheet](presentations/Microbit_worksheet.pdf)
+- 
 
 # Timetable
 Everyday will compromise of the different session as briefly shown in this timetable.
