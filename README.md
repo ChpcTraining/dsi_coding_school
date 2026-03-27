@@ -44,7 +44,6 @@ Thursday/Friday
 
 - [Microbit Introduction](presentations/DSTI_CODING_AND_ROBOTICS_MICROBIT_v2.pdf)
 - [Microbit Worksheet](presentations/Microbit_worksheet.pdf)
-- 
 
 # Timetable
 Everyday will compromise of the different session as briefly shown in this timetable.
