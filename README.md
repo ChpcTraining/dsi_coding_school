@@ -8,6 +8,8 @@ The five-day training program covers key areas such as:
 
 With the National Department of Basic Education in the process of  implementing a coding and robotics curriculum in public schools, this initiative is expected to play a critical role in shaping and refining the basic school coding curriculum in South Africa.
 
+Live site: https://chpctraining.github.io/dsi_coding_school/
+
 ### Scratch
 **Scratch**
 Is a visual programming language developed by the MIT (Massachusetts Institute of Technology) Media Lab to teach programming fundamentals through a user-friendly, drag-and-drop interface. It allows users, particularly beginners and children, to create interactive stories, games, and animations by snapping together colourful code blocks. The scratch platform promotes understanding of programming concepts without writing complex code and supports a vibrant community where users can share and remix projects. Scratch is widely used in education to foster computational thinking, creativity, and problem-solving skills.
