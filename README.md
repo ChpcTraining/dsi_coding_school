@@ -40,7 +40,7 @@ Wednesday
 
 -  [Robotics Introduction 1](presentations/Robotics_Intro_2026_day1_v2.pdf)
 -  [Robotics Introduction 2](presentations/Robotics_Intro_2026_day2_v2.pdf)
--  [Electronics Worksheet](presentations/Electronics_worksheet_1.pdf)
+
 
 Thursday/Friday
 
