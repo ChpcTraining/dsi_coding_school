@@ -41,12 +41,10 @@ Wednesday
 -  [Robotics Introduction 1](presentations/Robotics_Intro_2026_day1_v2.pdf)
 -  [Robotics Introduction 2](presentations/Robotics_Intro_2026_day2_v2.pdf)
 
-
 Thursday/Friday
 
-- [Microbit Introduction](presentations/DSTI_CODING_AND_ROBOTICS_MICROBIT_v2.pdf)
-- [Microbit Worksheet](presentations/Microbit_worksheet.pdf)
-- 
+- [Microbit Introduction](presentations/DSTI_CODING_AND_ROBOTICS_MICROBIT_v3.pdf)
+- [Microbit Worksheet](presentations/Microbit_Practical_Worksheet_v2_2026_Aug.pdf)
 
 # Timetable
 Everyday will compromise of the different session as briefly shown in this timetable.
