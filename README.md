@@ -43,7 +43,7 @@ Wednesday
 
 Thursday/Friday
 
-- [Microbit Introduction](presentations/DSTI_CODING_AND_ROBOTICS_MICROBIT_v3.pdf)
+- [Microbit Introduction](presentations/DSTI_CODING_AND_ROBOTICS_MICROBIT_v4.pdf)
 - [Microbit Worksheet](presentations/Microbit_Practical_Worksheet_v2_2026_Aug.pdf)
 
 # Timetable
