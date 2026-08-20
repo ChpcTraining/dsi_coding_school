@@ -1,5 +1,3 @@
----
----
 # Advanced Scratch Programming Guide
 ## Day 2 – Extending Scratch Skills
 

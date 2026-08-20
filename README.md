@@ -34,11 +34,21 @@ Monday
 - [Day 1 Lesson Plan](scratch/2026-28-scratch-material/day-01-scratch/lesson-plan)
 - [Scratch Introduction Guide](scratch/2026-28-scratch-material/day-01-scratch/scratch-introduction-guide)
 - [Introduction to Scratch(2025)](scratch/Introduction%20to%20Scratch)
+- [Interactive Story memo (scripts, exercises, .sb3)](scratch/2026-28-scratch-material/day-01-scratch/projects/03-interactive-story-code/)
+- [Interactive Story facilitator annotations](scratch/2026-28-scratch-material/day-01-scratch/projects/03-interactive-story-facilitator-guide)
+- [Download Day 1 Interactive Story .sb3](scratch/2026-28-scratch-material/day-01-scratch/projects/03-interactive-story-code/03-interactive-story.sb3)
 
 Tuesday
 
 - [Day 2 Lesson Plan](scratch/2026-28-scratch-material/day-02-scratch/lesson-plan)
 - [Scratch Advanced Guide](scratch/2026-28-scratch-material/day-02-scratch/scratch-advanced-guide)
+- [Catch Game facilitator annotations](scratch/2026-28-scratch-material/day-02-scratch/scratch-projects/01-catch-game-facilitator-annotations)
+- [Download Catch Game .sb3](scratch/2026-28-scratch-material/day-02-scratch/scratch-projects/solutions/01-catch-game.sb3)
+- [Water Cycle facilitator annotations](scratch/2026-28-scratch-material/day-02-scratch/scratch-projects/04-water-cycle-facilitator-annotations)
+- [Download Water Cycle .sb3](scratch/2026-28-scratch-material/day-02-scratch/scratch-projects/solutions/04-water-cycle.sb3)
+- [Interactive Story (choices) facilitator annotations](scratch/2026-28-scratch-material/day-02-scratch/scratch-projects/05-interactive-story-facilitator-annotations)
+- [Download Day 2 Interactive Story .sb3](scratch/2026-28-scratch-material/day-02-scratch/scratch-projects/solutions/05-interactive-story.sb3)
+- [2026–28 Scratch material pack](scratch/2026-28-scratch-material/)
 
 Wednesday 
 
