@@ -117,69 +117,115 @@
 ---
 
 ## Project 3: Interactive Story (Intermediate)
-**Time:** 60-90 minutes
-**Learning Objectives:**
-- Use multiple events
-- Create scenes with backgrounds
-- Add user interaction
 
-### Instructions
+**Time:** 60–90 minutes  
+**Concepts:** events, backdrops, broadcast
 
-1. **Plan your story:**
-   - Beginning, middle, end
-   - Characters
-   - Settings (backgrounds)
-   - User interactions
+Day 1 is a **linear** story (click and arrow to turn the page). Branching choices (`ask`, `if`, path A/B) are [Day 2 Project 5](../day-02-scratch/projects/project-templates.md#project-5-interactive-story-with-choices).
 
-2. **Set up backgrounds:**
-   - Add at least 3 backgrounds
-   - Name them clearly
+### Task
 
-3. **Create opening scene:**
-   ```
-   when green flag clicked
-   switch backdrop to [Scene 1]
-   say [Once upon a time...] for 2 seconds
-   ```
+Make a three-scene story: Home → Road → School. The player turns the page with a **click** and the **right arrow**.
 
-4. **Add character interactions:**
-   ```
-   when this sprite clicked
-   say [Hello! Click the arrow to continue] for 2 seconds
-   ```
+### Requirements
 
-5. **Add scene transitions:**
-   ```
-   when [right arrow] key pressed
-   switch backdrop to [next backdrop]
-   ```
-
-6. **Add multiple characters:**
-   - Each character can have different scripts
-   - Use "broadcast" to coordinate actions
-
-### Story Template Structure
-
-**Scene 1: Introduction**
-- Introduce characters
-- Set the scene
-- Present a problem
-
-**Scene 2: Development**
-- Character tries to solve problem
-- User makes choices
-- Consequences of choices
-
-**Scene 3: Resolution**
-- Problem is solved
-- Lesson learned
-- Happy ending
+- Sprites: **Child**, **Friend**.
+- Backdrops: **Home**, **Road**, **School** (in that order).
+- Green flag starts at Home. Friend stays **hidden**.
+- Clicking **Child** shows a line of dialogue.
+- Right arrow broadcasts `scene 2`: backdrop Road, Child hides, Friend appears.
+- Right arrow again goes to School and the ending line.
 
 ### Extensions
-- Add sound effects
-- Create multiple endings based on choices
-- Add animations
-- Include educational content
+
+- Change only the `say` text (kindness, water, two languages — table in the memo).
+- Sound effects.
+- Day 2: two paths with `ask` and `if`.
+
+### Memo: suggested Scratch script
+
+**Scratch file:** [`03-interactive-story.sb3`](03-interactive-story-code/03-interactive-story.sb3) — open in Scratch to see and test the blocks.
+
+**Download:** [Download `03-interactive-story.sb3`](03-interactive-story-code/03-interactive-story.sb3)
+
+**Scratch scripts (GitHub Pages):** [Interactive Story memo](03-interactive-story-code/)
+
+**Facilitator annotations (what to say for each block):** [Interactive Story facilitator annotations](03-interactive-story-facilitator-guide.md) — separate from the scripts below; use while explaining, not in Scratch.
+
+**How to run:** Green flag (Home, Child speaks) → **click** Child → **right arrow** (Road, Friend appears) → **right arrow** (School, ending line).
+
+**Setup:** sprites `Child`, `Friend`. Backdrops `Home`, `Road`, `School` (in that order). Message `scene 2`. Friend starts hidden.
+
+**Stage**
+
+```text
+when green flag clicked
+switch backdrop to (Home)
+```
+
+```text
+when I receive (scene 2)
+switch backdrop to (Road)
+```
+
+**Child — start position**
+
+```text
+when green flag clicked
+show
+go to x: (-80) y: (-60)
+switch backdrop to (Home)
+say [I missed the taxi. I am late for school.] for (2) seconds
+```
+
+**Child — click**
+
+```text
+when this sprite clicked
+say [I need help. Press the right arrow.] for (2) seconds
+```
+
+**Child — next scene**
+
+```text
+when [right arrow] key pressed
+broadcast (scene 2)
+hide
+```
+
+**Friend — start hidden**
+
+```text
+when green flag clicked
+hide
+go to x: (80) y: (-60)
+```
+
+**Friend — scene 2**
+
+```text
+when I receive (scene 2)
+show
+say [Walk with me. Press the arrow again.] for (2) seconds
+```
+
+**Friend — ending**
+
+```text
+when [right arrow] key pressed
+switch backdrop to (next backdrop)
+say [We arrived on time. Next time I will leave earlier.] for (2) seconds
+```
+
+**Check:** three named backdrops; Friend hidden on green flag; `scene 2` spelled the same on broadcast and receive.
+
+**Other say lines (same scripts, change only the text)**
+
+| Prompt | Child on flag | Child on click | Friend on `scene 2` | Friend on last arrow |
+|--------|---------------|----------------|---------------------|----------------------|
+| Kindness | My classmate dropped their books. | I will help you pick them up. | Thank you. Press the arrow. | We did it together. Kindness helps. |
+| Water | The tap is running. We are wasting water. | Close the tap. Save water. | The tap is closed. Press the arrow. | We saved water. |
+| Two languages | Hello! Sawubona! | How are you? Unjani? | I am fine. Ngiyaphila. | Goodbye! Hamba kahle! |
 
 ---
 

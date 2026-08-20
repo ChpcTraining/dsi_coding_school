@@ -1,5 +1,3 @@
----
----
 # Day 2: Advanced Scratch Programming
 ## Detailed Lesson Plan
 

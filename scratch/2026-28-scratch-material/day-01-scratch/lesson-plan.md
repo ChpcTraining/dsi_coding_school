@@ -1,5 +1,3 @@
----
----
 # Day 1: Introduction to Coding with Scratch
 ## Detailed Lesson Plan
 
@@ -109,6 +107,9 @@
   - Create a story with multiple scenes
   - Use events to trigger scene changes
   - Add user interaction
+  - **How to teach:** [Interactive Story facilitator annotations](projects/03-interactive-story-facilitator-guide.md)
+  - **Memo (scripts):** [Interactive Story memo](projects/03-interactive-story-code/)
+  - **Download `.sb3`:** [03-interactive-story.sb3](projects/03-interactive-story-code/03-interactive-story.sb3)
 
 **Lunch Break (12:00 - 13:00)**
 
