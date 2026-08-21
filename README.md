@@ -66,6 +66,8 @@ Thursday/Friday
 
 [Online Microbit Worksheet](https://forms.cloud.microsoft/r/hvCvWSXLKT)
 
+
+- [Workshop Quality Feedback Session (slides)](presentations/Workshop_Quality_Feedback_Session.pptx)
 # Timetable
 Everyday will compromise of the different session as briefly shown in this timetable.
                       
