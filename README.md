@@ -64,6 +64,8 @@ Thursday/Friday
 - [Extra Microbit Features](presentations/Extra_Microbit_features.pdf)
 - [More Advanced Step Counter](presentations/More Advanced Step Counter.pdf)
 
+[Online Microbit Worksheet](https://forms.cloud.microsoft/r/hvCvWSXLKT)
+
 # Timetable
 Everyday will compromise of the different session as briefly shown in this timetable.
                       
