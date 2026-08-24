@@ -67,7 +67,7 @@ Thursday/Friday
 [Online Microbit Worksheet](https://forms.cloud.microsoft/r/hvCvWSXLKT)
 
 # Timetable
-Everyday will compromise of the different session as briefly shown in this timetable.
+Every day will comprise different sessions as shown in this timetable.
                       
 | Time   | DAY 1  | DAY 2 | DAY 3 | DAY 4  | DAY 5  |
 | :---- | ----- | ----- | ----- | ----- | ----- |
